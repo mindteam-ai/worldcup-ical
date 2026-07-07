@@ -32,7 +32,7 @@ Apple Calendar  ->  webcal://mindteam-ai.github.io/worldcup-ical/worldcup.ics
   sneaking into the schema). Any anomaly exits non-zero, the Action commits
   nothing, and the previously published feed keeps serving.
 - **Event titles**: ball, both flags together, FIFA trigrams, round in
-  parentheses — `⚽ 🇦🇷🇪🇬 ARG vs EGY (Round of 16)` — with full country
+  parentheses — `⚽ 🇦🇷🇪🇬 ARG-EGY (Round of 16)` — with full country
   names in the description. The name→flag/trigram table is `TEAM_STYLE`
   in the script.
 - **Undecided knockout slots** show `TBD` with a 🌐 placeholder flag in the

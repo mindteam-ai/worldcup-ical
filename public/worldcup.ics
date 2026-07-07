@@ -17,7 +17,7 @@ UID:wc2026-match-1@worldcup2026.mindteam.ai
 DTSTAMP:20260611T190000Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:⚽ 🇲🇽🇿🇦 MEX vs RSA (Group A)
+SUMMARY:⚽ 🇲🇽🇿🇦 MEX-RSA (Group A)
 LOCATION:Estadio Azteca\, Mexico City\, Mexico
 DESCRIPTION:Mexico vs South Africa\nGroup A  ·  Match 1\nEstadio Azteca\, 
  Mexico City\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -38,7 +38,7 @@ UID:wc2026-match-2@worldcup2026.mindteam.ai
 DTSTAMP:20260612T020000Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-SUMMARY:⚽ 🇰🇷🇨🇿 KOR vs CZE (Group A)
+SUMMARY:⚽ 🇰🇷🇨🇿 KOR-CZE (Group A)
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 DESCRIPTION:Korea Republic vs Czechia\nGroup A  ·  Match 2\nEstadio Akron\
  , Guadalajara\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -59,7 +59,7 @@ UID:wc2026-match-3@worldcup2026.mindteam.ai
 DTSTAMP:20260612T190000Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-SUMMARY:⚽ 🇨🇦🇧🇦 CAN vs BIH (Group B)
+SUMMARY:⚽ 🇨🇦🇧🇦 CAN-BIH (Group B)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Canada vs Bosnia and Herzegovina\nGroup B  ·  Match 3\nBMO Fie
  ld\, Toronto\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -80,7 +80,7 @@ UID:wc2026-match-4@worldcup2026.mindteam.ai
 DTSTAMP:20260613T010000Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-SUMMARY:⚽ 🇺🇸🇵🇾 USA vs PAR (Group D)
+SUMMARY:⚽ 🇺🇸🇵🇾 USA-PAR (Group D)
 LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
 DESCRIPTION:USA vs Paraguay\nGroup D  ·  Match 4\nSoFi Stadium\, Los Angel
  es (Inglewood)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -101,7 +101,7 @@ UID:wc2026-match-8@worldcup2026.mindteam.ai
 DTSTAMP:20260613T190000Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-SUMMARY:⚽ 🇶🇦🇨🇭 QAT vs SUI (Group B)
+SUMMARY:⚽ 🇶🇦🇨🇭 QAT-SUI (Group B)
 LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
 DESCRIPTION:Qatar vs Switzerland\nGroup B  ·  Match 8\nLevi's Stadium\, Sa
  n Francisco Bay Area (Santa Clara)\, USA\n\n📺 Watch live or replay on P
@@ -122,7 +122,7 @@ UID:wc2026-match-7@worldcup2026.mindteam.ai
 DTSTAMP:20260613T220000Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-SUMMARY:⚽ 🇧🇷🇲🇦 BRA vs MAR (Group C)
+SUMMARY:⚽ 🇧🇷🇲🇦 BRA-MAR (Group C)
 LOCATION:MetLife Stadium\, New York / New Jersey\, USA
 DESCRIPTION:Brazil vs Morocco\nGroup C  ·  Match 7\nMetLife Stadium\, New 
  York / New Jersey\, USA\n\n📺 Watch live or replay on Peacock (Spanish-l
@@ -143,7 +143,7 @@ UID:wc2026-match-5@worldcup2026.mindteam.ai
 DTSTAMP:20260614T010000Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-SUMMARY:⚽ 🇭🇹🏴󠁧󠁢󠁳󠁣󠁴󠁿 HAI vs SCO (Group C)
+SUMMARY:⚽ 🇭🇹🏴󠁧󠁢󠁳󠁣󠁴󠁿 HAI-SCO (Group C)
 LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
 DESCRIPTION:Haiti vs Scotland\nGroup C  ·  Match 5\nGillette Stadium\, Bos
  ton (Foxborough)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -164,7 +164,7 @@ UID:wc2026-match-6@worldcup2026.mindteam.ai
 DTSTAMP:20260614T040000Z
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
-SUMMARY:⚽ 🇦🇺🇹🇷 AUS vs TUR (Group D)
+SUMMARY:⚽ 🇦🇺🇹🇷 AUS-TUR (Group D)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Australia vs Türkiye\nGroup D  ·  Match 6\nBC Place\, Vancouv
  er\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-language / Te
@@ -185,7 +185,7 @@ UID:wc2026-match-10@worldcup2026.mindteam.ai
 DTSTAMP:20260614T170000Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-SUMMARY:⚽ 🇩🇪🇨🇼 GER vs CUW (Group E)
+SUMMARY:⚽ 🇩🇪🇨🇼 GER-CUW (Group E)
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Germany vs Curaçao\nGroup E  ·  Match 10\nNRG Stadium\, Houst
  on\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telem
@@ -206,7 +206,7 @@ UID:wc2026-match-11@worldcup2026.mindteam.ai
 DTSTAMP:20260614T200000Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-SUMMARY:⚽ 🇳🇱🇯🇵 NED vs JPN (Group F)
+SUMMARY:⚽ 🇳🇱🇯🇵 NED-JPN (Group F)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:Netherlands vs Japan\nGroup F  ·  Match 11\nAT&T Stadium\, Dal
  las (Arlington)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -227,7 +227,7 @@ UID:wc2026-match-9@worldcup2026.mindteam.ai
 DTSTAMP:20260614T230000Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-SUMMARY:⚽ 🇨🇮🇪🇨 CIV vs ECU (Group E)
+SUMMARY:⚽ 🇨🇮🇪🇨 CIV-ECU (Group E)
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Côte d'Ivoire vs Ecuador\nGroup E  ·  Match 9\nLincoln Financ
  ial Field\, Philadelphia\, USA\n\n📺 Watch live or replay on Peacock (Sp
@@ -248,7 +248,7 @@ UID:wc2026-match-12@worldcup2026.mindteam.ai
 DTSTAMP:20260615T020000Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-SUMMARY:⚽ 🇸🇪🇹🇳 SWE vs TUN (Group F)
+SUMMARY:⚽ 🇸🇪🇹🇳 SWE-TUN (Group F)
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Sweden vs Tunisia\nGroup F  ·  Match 12\nEstadio BBVA\, Monter
  rey\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-language / T
@@ -269,7 +269,7 @@ UID:wc2026-match-14@worldcup2026.mindteam.ai
 DTSTAMP:20260615T160000Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-SUMMARY:⚽ 🇪🇸🇨🇻 ESP vs CPV (Group H)
+SUMMARY:⚽ 🇪🇸🇨🇻 ESP-CPV (Group H)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Spain vs Cabo Verde\nGroup H  ·  Match 14\nMercedes-Benz Stadi
  um\, Atlanta\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langua
@@ -290,7 +290,7 @@ UID:wc2026-match-16@worldcup2026.mindteam.ai
 DTSTAMP:20260615T190000Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-SUMMARY:⚽ 🇧🇪🇪🇬 BEL vs EGY (Group G)
+SUMMARY:⚽ 🇧🇪🇪🇬 BEL-EGY (Group G)
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Belgium vs Egypt\nGroup G  ·  Match 16\nLumen Field\, Seattle\
  , USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
@@ -311,7 +311,7 @@ UID:wc2026-match-13@worldcup2026.mindteam.ai
 DTSTAMP:20260615T220000Z
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-SUMMARY:⚽ 🇸🇦🇺🇾 KSA vs URU (Group H)
+SUMMARY:⚽ 🇸🇦🇺🇾 KSA-URU (Group H)
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Saudi Arabia vs Uruguay\nGroup H  ·  Match 13\nHard Rock Stadi
  um\, Miami\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language
@@ -332,7 +332,7 @@ UID:wc2026-match-15@worldcup2026.mindteam.ai
 DTSTAMP:20260616T010000Z
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-SUMMARY:⚽ 🇮🇷🇳🇿 IRN vs NZL (Group G)
+SUMMARY:⚽ 🇮🇷🇳🇿 IRN-NZL (Group G)
 LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
 DESCRIPTION:IR Iran vs New Zealand\nGroup G  ·  Match 15\nSoFi Stadium\, L
  os Angeles (Inglewood)\, USA\n\n📺 Watch live or replay on Peacock (Span
@@ -353,7 +353,7 @@ UID:wc2026-match-17@worldcup2026.mindteam.ai
 DTSTAMP:20260616T190000Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-SUMMARY:⚽ 🇫🇷🇸🇳 FRA vs SEN (Group I)
+SUMMARY:⚽ 🇫🇷🇸🇳 FRA-SEN (Group I)
 LOCATION:MetLife Stadium\, New York / New Jersey\, USA
 DESCRIPTION:France vs Senegal\nGroup I  ·  Match 17\nMetLife Stadium\, New
   York / New Jersey\, USA\n\n📺 Watch live or replay on Peacock (Spanish-
@@ -374,7 +374,7 @@ UID:wc2026-match-18@worldcup2026.mindteam.ai
 DTSTAMP:20260616T220000Z
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-SUMMARY:⚽ 🇮🇶🇳🇴 IRQ vs NOR (Group I)
+SUMMARY:⚽ 🇮🇶🇳🇴 IRQ-NOR (Group I)
 LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
 DESCRIPTION:Iraq vs Norway\nGroup I  ·  Match 18\nGillette Stadium\, Bosto
  n (Foxborough)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -395,7 +395,7 @@ UID:wc2026-match-19@worldcup2026.mindteam.ai
 DTSTAMP:20260617T010000Z
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
-SUMMARY:⚽ 🇦🇷🇩🇿 ARG vs ALG (Group J)
+SUMMARY:⚽ 🇦🇷🇩🇿 ARG-ALG (Group J)
 LOCATION:Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Argentina vs Algeria\nGroup J  ·  Match 19\nArrowhead Stadium\
  , Kansas City\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langu
@@ -416,7 +416,7 @@ UID:wc2026-match-20@worldcup2026.mindteam.ai
 DTSTAMP:20260617T040000Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
-SUMMARY:⚽ 🇦🇹🇯🇴 AUT vs JOR (Group J)
+SUMMARY:⚽ 🇦🇹🇯🇴 AUT-JOR (Group J)
 LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
 DESCRIPTION:Austria vs Jordan\nGroup J  ·  Match 20\nLevi's Stadium\, San 
  Francisco Bay Area (Santa Clara)\, USA\n\n📺 Watch live or replay on Pea
@@ -437,7 +437,7 @@ UID:wc2026-match-23@worldcup2026.mindteam.ai
 DTSTAMP:20260617T170000Z
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-SUMMARY:⚽ 🇵🇹🇨🇩 POR vs COD (Group K)
+SUMMARY:⚽ 🇵🇹🇨🇩 POR-COD (Group K)
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Portugal vs Congo DR\nGroup K  ·  Match 23\nNRG Stadium\, Hous
  ton\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Tele
@@ -458,7 +458,7 @@ UID:wc2026-match-22@worldcup2026.mindteam.ai
 DTSTAMP:20260617T200000Z
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇭🇷 ENG vs CRO (Group L)
+SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇭🇷 ENG-CRO (Group L)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:England vs Croatia\nGroup L  ·  Match 22\nAT&T Stadium\, Dalla
  s (Arlington)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langu
@@ -479,7 +479,7 @@ UID:wc2026-match-21@worldcup2026.mindteam.ai
 DTSTAMP:20260617T230000Z
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-SUMMARY:⚽ 🇬🇭🇵🇦 GHA vs PAN (Group L)
+SUMMARY:⚽ 🇬🇭🇵🇦 GHA-PAN (Group L)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Ghana vs Panama\nGroup L  ·  Match 21\nBMO Field\, Toronto\, C
  anada\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
@@ -500,7 +500,7 @@ UID:wc2026-match-24@worldcup2026.mindteam.ai
 DTSTAMP:20260618T020000Z
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-SUMMARY:⚽ 🇺🇿🇨🇴 UZB vs COL (Group K)
+SUMMARY:⚽ 🇺🇿🇨🇴 UZB-COL (Group K)
 LOCATION:Estadio Azteca\, Mexico City\, Mexico
 DESCRIPTION:Uzbekistan vs Colombia\nGroup K  ·  Match 24\nEstadio Azteca\,
   Mexico City\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -521,7 +521,7 @@ UID:wc2026-match-25@worldcup2026.mindteam.ai
 DTSTAMP:20260618T160000Z
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-SUMMARY:⚽ 🇨🇿🇿🇦 CZE vs RSA (Group A)
+SUMMARY:⚽ 🇨🇿🇿🇦 CZE-RSA (Group A)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Czechia vs South Africa\nGroup A  ·  Match 25\nMercedes-Benz S
  tadium\, Atlanta\, USA\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -542,7 +542,7 @@ UID:wc2026-match-26@worldcup2026.mindteam.ai
 DTSTAMP:20260618T190000Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-SUMMARY:⚽ 🇨🇭🇧🇦 SUI vs BIH (Group B)
+SUMMARY:⚽ 🇨🇭🇧🇦 SUI-BIH (Group B)
 LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
 DESCRIPTION:Switzerland vs Bosnia and Herzegovina\nGroup B  ·  Match 26\nS
  oFi Stadium\, Los Angeles (Inglewood)\, USA\n\n📺 Watch live or replay o
@@ -563,7 +563,7 @@ UID:wc2026-match-27@worldcup2026.mindteam.ai
 DTSTAMP:20260618T220000Z
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-SUMMARY:⚽ 🇨🇦🇶🇦 CAN vs QAT (Group B)
+SUMMARY:⚽ 🇨🇦🇶🇦 CAN-QAT (Group B)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Canada vs Qatar\nGroup B  ·  Match 27\nBC Place\, Vancouver\, 
  Canada\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemun
@@ -584,7 +584,7 @@ UID:wc2026-match-28@worldcup2026.mindteam.ai
 DTSTAMP:20260619T010000Z
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-SUMMARY:⚽ 🇲🇽🇰🇷 MEX vs KOR (Group A)
+SUMMARY:⚽ 🇲🇽🇰🇷 MEX-KOR (Group A)
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 DESCRIPTION:Mexico vs Korea Republic\nGroup A  ·  Match 28\nEstadio Akron\
  , Guadalajara\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -605,7 +605,7 @@ UID:wc2026-match-32@worldcup2026.mindteam.ai
 DTSTAMP:20260619T190000Z
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-SUMMARY:⚽ 🇺🇸🇦🇺 USA vs AUS (Group D)
+SUMMARY:⚽ 🇺🇸🇦🇺 USA-AUS (Group D)
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:USA vs Australia\nGroup D  ·  Match 32\nLumen Field\, Seattle\
  , USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
@@ -626,7 +626,7 @@ UID:wc2026-match-30@worldcup2026.mindteam.ai
 DTSTAMP:20260619T220000Z
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-SUMMARY:⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇲🇦 SCO vs MAR (Group C)
+SUMMARY:⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇲🇦 SCO-MAR (Group C)
 LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
 DESCRIPTION:Scotland vs Morocco\nGroup C  ·  Match 30\nGillette Stadium\, 
  Boston (Foxborough)\, USA\n\n📺 Watch live or replay on Peacock (Spanish
@@ -647,7 +647,7 @@ UID:wc2026-match-29@worldcup2026.mindteam.ai
 DTSTAMP:20260620T003000Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-SUMMARY:⚽ 🇧🇷🇭🇹 BRA vs HAI (Group C)
+SUMMARY:⚽ 🇧🇷🇭🇹 BRA-HAI (Group C)
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Brazil vs Haiti\nGroup C  ·  Match 29\nLincoln Financial Field
  \, Philadelphia\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -668,7 +668,7 @@ UID:wc2026-match-31@worldcup2026.mindteam.ai
 DTSTAMP:20260620T030000Z
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-SUMMARY:⚽ 🇹🇷🇵🇾 TUR vs PAR (Group D)
+SUMMARY:⚽ 🇹🇷🇵🇾 TUR-PAR (Group D)
 LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
 DESCRIPTION:Türkiye vs Paraguay\nGroup D  ·  Match 31\nLevi's Stadium\, S
  an Francisco Bay Area (Santa Clara)\, USA\n\n📺 Watch live or replay on 
@@ -689,7 +689,7 @@ UID:wc2026-match-35@worldcup2026.mindteam.ai
 DTSTAMP:20260620T170000Z
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-SUMMARY:⚽ 🇳🇱🇸🇪 NED vs SWE (Group F)
+SUMMARY:⚽ 🇳🇱🇸🇪 NED-SWE (Group F)
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Netherlands vs Sweden\nGroup F  ·  Match 35\nNRG Stadium\, Hou
  ston\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Tel
@@ -710,7 +710,7 @@ UID:wc2026-match-33@worldcup2026.mindteam.ai
 DTSTAMP:20260620T200000Z
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-SUMMARY:⚽ 🇩🇪🇨🇮 GER vs CIV (Group E)
+SUMMARY:⚽ 🇩🇪🇨🇮 GER-CIV (Group E)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Germany vs Côte d'Ivoire\nGroup E  ·  Match 33\nBMO Field\, T
  oronto\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-language 
@@ -731,7 +731,7 @@ UID:wc2026-match-34@worldcup2026.mindteam.ai
 DTSTAMP:20260621T000000Z
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
-SUMMARY:⚽ 🇪🇨🇨🇼 ECU vs CUW (Group E)
+SUMMARY:⚽ 🇪🇨🇨🇼 ECU-CUW (Group E)
 LOCATION:Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Ecuador vs Curaçao\nGroup E  ·  Match 34\nArrowhead Stadium\,
   Kansas City\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langua
@@ -752,7 +752,7 @@ UID:wc2026-match-36@worldcup2026.mindteam.ai
 DTSTAMP:20260621T040000Z
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-SUMMARY:⚽ 🇹🇳🇯🇵 TUN vs JPN (Group F)
+SUMMARY:⚽ 🇹🇳🇯🇵 TUN-JPN (Group F)
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Tunisia vs Japan\nGroup F  ·  Match 36\nEstadio BBVA\, Monterr
  ey\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-language / Te
@@ -773,7 +773,7 @@ UID:wc2026-match-38@worldcup2026.mindteam.ai
 DTSTAMP:20260621T160000Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-SUMMARY:⚽ 🇪🇸🇸🇦 ESP vs KSA (Group H)
+SUMMARY:⚽ 🇪🇸🇸🇦 ESP-KSA (Group H)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Spain vs Saudi Arabia\nGroup H  ·  Match 38\nMercedes-Benz Sta
  dium\, Atlanta\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -794,7 +794,7 @@ UID:wc2026-match-39@worldcup2026.mindteam.ai
 DTSTAMP:20260621T190000Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-SUMMARY:⚽ 🇧🇪🇮🇷 BEL vs IRN (Group G)
+SUMMARY:⚽ 🇧🇪🇮🇷 BEL-IRN (Group G)
 LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
 DESCRIPTION:Belgium vs IR Iran\nGroup G  ·  Match 39\nSoFi Stadium\, Los A
  ngeles (Inglewood)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-
@@ -815,7 +815,7 @@ UID:wc2026-match-37@worldcup2026.mindteam.ai
 DTSTAMP:20260621T220000Z
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-SUMMARY:⚽ 🇺🇾🇨🇻 URU vs CPV (Group H)
+SUMMARY:⚽ 🇺🇾🇨🇻 URU-CPV (Group H)
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Uruguay vs Cabo Verde\nGroup H  ·  Match 37\nHard Rock Stadium
  \, Miami\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language /
@@ -836,7 +836,7 @@ UID:wc2026-match-40@worldcup2026.mindteam.ai
 DTSTAMP:20260622T010000Z
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
-SUMMARY:⚽ 🇳🇿🇪🇬 NZL vs EGY (Group G)
+SUMMARY:⚽ 🇳🇿🇪🇬 NZL-EGY (Group G)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:New Zealand vs Egypt\nGroup G  ·  Match 40\nBC Place\, Vancouv
  er\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-language / Te
@@ -857,7 +857,7 @@ UID:wc2026-match-43@worldcup2026.mindteam.ai
 DTSTAMP:20260622T170000Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
-SUMMARY:⚽ 🇦🇷🇦🇹 ARG vs AUT (Group J)
+SUMMARY:⚽ 🇦🇷🇦🇹 ARG-AUT (Group J)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:Argentina vs Austria\nGroup J  ·  Match 43\nAT&T Stadium\, Dal
  las (Arlington)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -878,7 +878,7 @@ UID:wc2026-match-42@worldcup2026.mindteam.ai
 DTSTAMP:20260622T210000Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-SUMMARY:⚽ 🇫🇷🇮🇶 FRA vs IRQ (Group I)
+SUMMARY:⚽ 🇫🇷🇮🇶 FRA-IRQ (Group I)
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:France vs Iraq\nGroup I  ·  Match 42\nLincoln Financial Field\
  , Philadelphia\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -899,7 +899,7 @@ UID:wc2026-match-41@worldcup2026.mindteam.ai
 DTSTAMP:20260623T000000Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-SUMMARY:⚽ 🇳🇴🇸🇳 NOR vs SEN (Group I)
+SUMMARY:⚽ 🇳🇴🇸🇳 NOR-SEN (Group I)
 LOCATION:MetLife Stadium\, New York / New Jersey\, USA
 DESCRIPTION:Norway vs Senegal\nGroup I  ·  Match 41\nMetLife Stadium\, New
   York / New Jersey\, USA\n\n📺 Watch live or replay on Peacock (Spanish-
@@ -920,7 +920,7 @@ UID:wc2026-match-44@worldcup2026.mindteam.ai
 DTSTAMP:20260623T030000Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-SUMMARY:⚽ 🇯🇴🇩🇿 JOR vs ALG (Group J)
+SUMMARY:⚽ 🇯🇴🇩🇿 JOR-ALG (Group J)
 LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
 DESCRIPTION:Jordan vs Algeria\nGroup J  ·  Match 44\nLevi's Stadium\, San 
  Francisco Bay Area (Santa Clara)\, USA\n\n📺 Watch live or replay on Pea
@@ -941,7 +941,7 @@ UID:wc2026-match-47@worldcup2026.mindteam.ai
 DTSTAMP:20260623T170000Z
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-SUMMARY:⚽ 🇵🇹🇺🇿 POR vs UZB (Group K)
+SUMMARY:⚽ 🇵🇹🇺🇿 POR-UZB (Group K)
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Portugal vs Uzbekistan\nGroup K  ·  Match 47\nNRG Stadium\, Ho
  uston\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Te
@@ -962,7 +962,7 @@ UID:wc2026-match-45@worldcup2026.mindteam.ai
 DTSTAMP:20260623T200000Z
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇭 ENG vs GHA (Group L)
+SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇭 ENG-GHA (Group L)
 LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
 DESCRIPTION:England vs Ghana\nGroup L  ·  Match 45\nGillette Stadium\, Bos
  ton (Foxborough)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -983,7 +983,7 @@ UID:wc2026-match-46@worldcup2026.mindteam.ai
 DTSTAMP:20260623T230000Z
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-SUMMARY:⚽ 🇵🇦🇭🇷 PAN vs CRO (Group L)
+SUMMARY:⚽ 🇵🇦🇭🇷 PAN-CRO (Group L)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Panama vs Croatia\nGroup L  ·  Match 46\nBMO Field\, Toronto\,
   Canada\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemu
@@ -1004,7 +1004,7 @@ UID:wc2026-match-48@worldcup2026.mindteam.ai
 DTSTAMP:20260624T020000Z
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-SUMMARY:⚽ 🇨🇴🇨🇩 COL vs COD (Group K)
+SUMMARY:⚽ 🇨🇴🇨🇩 COL-COD (Group K)
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 DESCRIPTION:Colombia vs Congo DR\nGroup K  ·  Match 48\nEstadio Akron\, Gu
  adalajara\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-langua
@@ -1025,7 +1025,7 @@ UID:wc2026-match-51@worldcup2026.mindteam.ai
 DTSTAMP:20260624T190000Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:⚽ 🇨🇭🇨🇦 SUI vs CAN (Group B)
+SUMMARY:⚽ 🇨🇭🇨🇦 SUI-CAN (Group B)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Switzerland vs Canada\nGroup B  ·  Match 51\nBC Place\, Vancou
  ver\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-language / T
@@ -1046,7 +1046,7 @@ UID:wc2026-match-52@worldcup2026.mindteam.ai
 DTSTAMP:20260624T190000Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:⚽ 🇧🇦🇶🇦 BIH vs QAT (Group B)
+SUMMARY:⚽ 🇧🇦🇶🇦 BIH-QAT (Group B)
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Bosnia and Herzegovina vs Qatar\nGroup B  ·  Match 52\nLumen F
  ield\, Seattle\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -1067,7 +1067,7 @@ UID:wc2026-match-49@worldcup2026.mindteam.ai
 DTSTAMP:20260624T220000Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SUMMARY:⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇧🇷 SCO vs BRA (Group C)
+SUMMARY:⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇧🇷 SCO-BRA (Group C)
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Scotland vs Brazil\nGroup C  ·  Match 49\nHard Rock Stadium\, 
  Miami\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Te
@@ -1088,7 +1088,7 @@ UID:wc2026-match-50@worldcup2026.mindteam.ai
 DTSTAMP:20260624T220000Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SUMMARY:⚽ 🇲🇦🇭🇹 MAR vs HAI (Group C)
+SUMMARY:⚽ 🇲🇦🇭🇹 MAR-HAI (Group C)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Morocco vs Haiti\nGroup C  ·  Match 50\nMercedes-Benz Stadium\
  , Atlanta\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language 
@@ -1109,7 +1109,7 @@ UID:wc2026-match-53@worldcup2026.mindteam.ai
 DTSTAMP:20260625T010000Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:⚽ 🇨🇿🇲🇽 CZE vs MEX (Group A)
+SUMMARY:⚽ 🇨🇿🇲🇽 CZE-MEX (Group A)
 LOCATION:Estadio Azteca\, Mexico City\, Mexico
 DESCRIPTION:Czechia vs Mexico\nGroup A  ·  Match 53\nEstadio Azteca\, Mexi
  co City\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-language
@@ -1130,7 +1130,7 @@ UID:wc2026-match-54@worldcup2026.mindteam.ai
 DTSTAMP:20260625T010000Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:⚽ 🇿🇦🇰🇷 RSA vs KOR (Group A)
+SUMMARY:⚽ 🇿🇦🇰🇷 RSA-KOR (Group A)
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:South Africa vs Korea Republic\nGroup A  ·  Match 54\nEstadio 
  BBVA\, Monterrey\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish
@@ -1151,7 +1151,7 @@ UID:wc2026-match-55@worldcup2026.mindteam.ai
 DTSTAMP:20260625T200000Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:⚽ 🇨🇼🇨🇮 CUW vs CIV (Group E)
+SUMMARY:⚽ 🇨🇼🇨🇮 CUW-CIV (Group E)
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Curaçao vs Côte d'Ivoire\nGroup E  ·  Match 55\nLincoln Fina
  ncial Field\, Philadelphia\, USA\n\n📺 Watch live or replay on Peacock (
@@ -1172,7 +1172,7 @@ UID:wc2026-match-56@worldcup2026.mindteam.ai
 DTSTAMP:20260625T200000Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:⚽ 🇪🇨🇩🇪 ECU vs GER (Group E)
+SUMMARY:⚽ 🇪🇨🇩🇪 ECU-GER (Group E)
 LOCATION:MetLife Stadium\, New York / New Jersey\, USA
 DESCRIPTION:Ecuador vs Germany\nGroup E  ·  Match 56\nMetLife Stadium\, Ne
  w York / New Jersey\, USA\n\n📺 Watch live or replay on Peacock (Spanish
@@ -1193,7 +1193,7 @@ UID:wc2026-match-57@worldcup2026.mindteam.ai
 DTSTAMP:20260625T230000Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:⚽ 🇯🇵🇸🇪 JPN vs SWE (Group F)
+SUMMARY:⚽ 🇯🇵🇸🇪 JPN-SWE (Group F)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:Japan vs Sweden\nGroup F  ·  Match 57\nAT&T Stadium\, Dallas (
  Arlington)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language
@@ -1214,7 +1214,7 @@ UID:wc2026-match-58@worldcup2026.mindteam.ai
 DTSTAMP:20260625T230000Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:⚽ 🇹🇳🇳🇱 TUN vs NED (Group F)
+SUMMARY:⚽ 🇹🇳🇳🇱 TUN-NED (Group F)
 LOCATION:Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Tunisia vs Netherlands\nGroup F  ·  Match 58\nArrowhead Stadiu
  m\, Kansas City\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -1235,7 +1235,7 @@ UID:wc2026-match-59@worldcup2026.mindteam.ai
 DTSTAMP:20260626T020000Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:⚽ 🇹🇷🇺🇸 TUR vs USA (Group D)
+SUMMARY:⚽ 🇹🇷🇺🇸 TUR-USA (Group D)
 LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
 DESCRIPTION:Türkiye vs USA\nGroup D  ·  Match 59\nSoFi Stadium\, Los Ange
  les (Inglewood)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -1256,7 +1256,7 @@ UID:wc2026-match-60@worldcup2026.mindteam.ai
 DTSTAMP:20260626T020000Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:⚽ 🇵🇾🇦🇺 PAR vs AUS (Group D)
+SUMMARY:⚽ 🇵🇾🇦🇺 PAR-AUS (Group D)
 LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
 DESCRIPTION:Paraguay vs Australia\nGroup D  ·  Match 60\nLevi's Stadium\, 
  San Francisco Bay Area (Santa Clara)\, USA\n\n📺 Watch live or replay on
@@ -1277,7 +1277,7 @@ UID:wc2026-match-61@worldcup2026.mindteam.ai
 DTSTAMP:20260626T190000Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:⚽ 🇳🇴🇫🇷 NOR vs FRA (Group I)
+SUMMARY:⚽ 🇳🇴🇫🇷 NOR-FRA (Group I)
 LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
 DESCRIPTION:Norway vs France\nGroup I  ·  Match 61\nGillette Stadium\, Bos
  ton (Foxborough)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -1298,7 +1298,7 @@ UID:wc2026-match-62@worldcup2026.mindteam.ai
 DTSTAMP:20260626T190000Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:⚽ 🇸🇳🇮🇶 SEN vs IRQ (Group I)
+SUMMARY:⚽ 🇸🇳🇮🇶 SEN-IRQ (Group I)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Senegal vs Iraq\nGroup I  ·  Match 62\nBMO Field\, Toronto\, C
  anada\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
@@ -1319,7 +1319,7 @@ UID:wc2026-match-65@worldcup2026.mindteam.ai
 DTSTAMP:20260627T000000Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:⚽ 🇨🇻🇸🇦 CPV vs KSA (Group H)
+SUMMARY:⚽ 🇨🇻🇸🇦 CPV-KSA (Group H)
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Cabo Verde vs Saudi Arabia\nGroup H  ·  Match 65\nNRG Stadium\
  , Houston\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language 
@@ -1340,7 +1340,7 @@ UID:wc2026-match-66@worldcup2026.mindteam.ai
 DTSTAMP:20260627T000000Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:⚽ 🇺🇾🇪🇸 URU vs ESP (Group H)
+SUMMARY:⚽ 🇺🇾🇪🇸 URU-ESP (Group H)
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 DESCRIPTION:Uruguay vs Spain\nGroup H  ·  Match 66\nEstadio Akron\, Guadal
  ajara\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-language /
@@ -1361,7 +1361,7 @@ UID:wc2026-match-63@worldcup2026.mindteam.ai
 DTSTAMP:20260627T030000Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:⚽ 🇪🇬🇮🇷 EGY vs IRN (Group G)
+SUMMARY:⚽ 🇪🇬🇮🇷 EGY-IRN (Group G)
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Egypt vs IR Iran\nGroup G  ·  Match 63\nLumen Field\, Seattle\
  , USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
@@ -1382,7 +1382,7 @@ UID:wc2026-match-64@worldcup2026.mindteam.ai
 DTSTAMP:20260627T030000Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:⚽ 🇳🇿🇧🇪 NZL vs BEL (Group G)
+SUMMARY:⚽ 🇳🇿🇧🇪 NZL-BEL (Group G)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:New Zealand vs Belgium\nGroup G  ·  Match 64\nBC Place\, Vanco
  uver\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-language / 
@@ -1403,7 +1403,7 @@ UID:wc2026-match-67@worldcup2026.mindteam.ai
 DTSTAMP:20260627T210000Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:⚽ 🇵🇦🏴󠁧󠁢󠁥󠁮󠁧󠁿 PAN vs ENG (Group L)
+SUMMARY:⚽ 🇵🇦🏴󠁧󠁢󠁥󠁮󠁧󠁿 PAN-ENG (Group L)
 LOCATION:MetLife Stadium\, New York / New Jersey\, USA
 DESCRIPTION:Panama vs England\nGroup L  ·  Match 67\nMetLife Stadium\, New
   York / New Jersey\, USA\n\n📺 Watch live or replay on Peacock (Spanish-
@@ -1424,7 +1424,7 @@ UID:wc2026-match-68@worldcup2026.mindteam.ai
 DTSTAMP:20260627T210000Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:⚽ 🇭🇷🇬🇭 CRO vs GHA (Group L)
+SUMMARY:⚽ 🇭🇷🇬🇭 CRO-GHA (Group L)
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Croatia vs Ghana\nGroup L  ·  Match 68\nLincoln Financial Fiel
  d\, Philadelphia\, USA\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -1445,7 +1445,7 @@ UID:wc2026-match-71@worldcup2026.mindteam.ai
 DTSTAMP:20260627T233000Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:⚽ 🇨🇴🇵🇹 COL vs POR (Group K)
+SUMMARY:⚽ 🇨🇴🇵🇹 COL-POR (Group K)
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Colombia vs Portugal\nGroup K  ·  Match 71\nHard Rock Stadium\
  , Miami\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / 
@@ -1466,7 +1466,7 @@ UID:wc2026-match-72@worldcup2026.mindteam.ai
 DTSTAMP:20260627T233000Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:⚽ 🇨🇩🇺🇿 COD vs UZB (Group K)
+SUMMARY:⚽ 🇨🇩🇺🇿 COD-UZB (Group K)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Congo DR vs Uzbekistan\nGroup K  ·  Match 72\nMercedes-Benz St
  adium\, Atlanta\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -1487,7 +1487,7 @@ UID:wc2026-match-69@worldcup2026.mindteam.ai
 DTSTAMP:20260628T020000Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-SUMMARY:⚽ 🇩🇿🇦🇹 ALG vs AUT (Group J)
+SUMMARY:⚽ 🇩🇿🇦🇹 ALG-AUT (Group J)
 LOCATION:Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Algeria vs Austria\nGroup J  ·  Match 69\nArrowhead Stadium\, 
  Kansas City\, USA\n\n📺 Watch live or replay on Peacock (Spanish-languag
@@ -1508,7 +1508,7 @@ UID:wc2026-match-70@worldcup2026.mindteam.ai
 DTSTAMP:20260628T020000Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-SUMMARY:⚽ 🇯🇴🇦🇷 JOR vs ARG (Group J)
+SUMMARY:⚽ 🇯🇴🇦🇷 JOR-ARG (Group J)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:Jordan vs Argentina\nGroup J  ·  Match 70\nAT&T Stadium\, Dall
  as (Arlington)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -1529,7 +1529,7 @@ UID:wc2026-match-73@worldcup2026.mindteam.ai
 DTSTAMP:20260628T190000Z
 DTSTART:20260628T190000Z
 DTEND:20260628T214500Z
-SUMMARY:⚽ 🇿🇦🇨🇦 RSA vs CAN (Round of 32)
+SUMMARY:⚽ 🇿🇦🇨🇦 RSA-CAN (Round of 32)
 LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
 DESCRIPTION:South Africa vs Canada\nRound of 32  ·  Match 73\nSoFi Stadium
  \, Los Angeles (Inglewood)\, USA\n\n📺 Watch live or replay on Peacock (
@@ -1550,7 +1550,7 @@ UID:wc2026-match-76@worldcup2026.mindteam.ai
 DTSTAMP:20260629T170000Z
 DTSTART:20260629T170000Z
 DTEND:20260629T194500Z
-SUMMARY:⚽ 🇧🇷🇯🇵 BRA vs JPN (Round of 32)
+SUMMARY:⚽ 🇧🇷🇯🇵 BRA-JPN (Round of 32)
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Brazil vs Japan\nRound of 32  ·  Match 76\nNRG Stadium\, Houst
  on\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telem
@@ -1571,7 +1571,7 @@ UID:wc2026-match-74@worldcup2026.mindteam.ai
 DTSTAMP:20260629T203000Z
 DTSTART:20260629T203000Z
 DTEND:20260629T231500Z
-SUMMARY:⚽ 🇩🇪🇵🇾 GER vs PAR (Round of 32)
+SUMMARY:⚽ 🇩🇪🇵🇾 GER-PAR (Round of 32)
 LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
 DESCRIPTION:Germany vs Paraguay\nRound of 32  ·  Match 74\nGillette Stadiu
  m\, Boston (Foxborough)\, USA\n\n📺 Watch live or replay on Peacock (Spa
@@ -1592,7 +1592,7 @@ UID:wc2026-match-75@worldcup2026.mindteam.ai
 DTSTAMP:20260630T010000Z
 DTSTART:20260630T010000Z
 DTEND:20260630T034500Z
-SUMMARY:⚽ 🇳🇱🇲🇦 NED vs MAR (Round of 32)
+SUMMARY:⚽ 🇳🇱🇲🇦 NED-MAR (Round of 32)
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Netherlands vs Morocco\nRound of 32  ·  Match 75\nEstadio BBVA
  \, Monterrey\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -1613,7 +1613,7 @@ UID:wc2026-match-78@worldcup2026.mindteam.ai
 DTSTAMP:20260630T170000Z
 DTSTART:20260630T170000Z
 DTEND:20260630T194500Z
-SUMMARY:⚽ 🇨🇮🇳🇴 CIV vs NOR (Round of 32)
+SUMMARY:⚽ 🇨🇮🇳🇴 CIV-NOR (Round of 32)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:Côte d'Ivoire vs Norway\nRound of 32  ·  Match 78\nAT&T Stadi
  um\, Dallas (Arlington)\, USA\n\n📺 Watch live or replay on Peacock (Spa
@@ -1634,7 +1634,7 @@ UID:wc2026-match-77@worldcup2026.mindteam.ai
 DTSTAMP:20260630T210000Z
 DTSTART:20260630T210000Z
 DTEND:20260630T234500Z
-SUMMARY:⚽ 🇫🇷🇸🇪 FRA vs SWE (Round of 32)
+SUMMARY:⚽ 🇫🇷🇸🇪 FRA-SWE (Round of 32)
 LOCATION:MetLife Stadium\, New York / New Jersey\, USA
 DESCRIPTION:France vs Sweden\nRound of 32  ·  Match 77\nMetLife Stadium\, 
  New York / New Jersey\, USA\n\n📺 Watch live or replay on Peacock (Spani
@@ -1655,7 +1655,7 @@ UID:wc2026-match-79@worldcup2026.mindteam.ai
 DTSTAMP:20260701T020000Z
 DTSTART:20260701T020000Z
 DTEND:20260701T044500Z
-SUMMARY:⚽ 🇲🇽🇪🇨 MEX vs ECU (Round of 32)
+SUMMARY:⚽ 🇲🇽🇪🇨 MEX-ECU (Round of 32)
 LOCATION:Estadio Azteca\, Mexico City\, Mexico
 DESCRIPTION:Mexico vs Ecuador\nRound of 32  ·  Match 79\nEstadio Azteca\, 
  Mexico City\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -1676,7 +1676,7 @@ UID:wc2026-match-80@worldcup2026.mindteam.ai
 DTSTAMP:20260701T160000Z
 DTSTART:20260701T160000Z
 DTEND:20260701T184500Z
-SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇩 ENG vs COD (Round of 32)
+SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇩 ENG-COD (Round of 32)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:England vs Congo DR\nRound of 32  ·  Match 80\nMercedes-Benz S
  tadium\, Atlanta\, USA\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -1697,7 +1697,7 @@ UID:wc2026-match-82@worldcup2026.mindteam.ai
 DTSTAMP:20260701T200000Z
 DTSTART:20260701T200000Z
 DTEND:20260701T224500Z
-SUMMARY:⚽ 🇧🇪🇸🇳 BEL vs SEN (Round of 32)
+SUMMARY:⚽ 🇧🇪🇸🇳 BEL-SEN (Round of 32)
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Belgium vs Senegal\nRound of 32  ·  Match 82\nLumen Field\, Se
  attle\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Te
@@ -1718,7 +1718,7 @@ UID:wc2026-match-81@worldcup2026.mindteam.ai
 DTSTAMP:20260702T000000Z
 DTSTART:20260702T000000Z
 DTEND:20260702T024500Z
-SUMMARY:⚽ 🇺🇸🇧🇦 USA vs BIH (Round of 32)
+SUMMARY:⚽ 🇺🇸🇧🇦 USA-BIH (Round of 32)
 LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
 DESCRIPTION:USA vs Bosnia and Herzegovina\nRound of 32  ·  Match 81\nLevi'
  s Stadium\, San Francisco Bay Area (Santa Clara)\, USA\n\n📺 Watch live 
@@ -1740,7 +1740,7 @@ UID:wc2026-match-84@worldcup2026.mindteam.ai
 DTSTAMP:20260702T190000Z
 DTSTART:20260702T190000Z
 DTEND:20260702T214500Z
-SUMMARY:⚽ 🇪🇸🇦🇹 ESP vs AUT (Round of 32)
+SUMMARY:⚽ 🇪🇸🇦🇹 ESP-AUT (Round of 32)
 LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
 DESCRIPTION:Spain vs Austria\nRound of 32  ·  Match 84\nSoFi Stadium\, Los
   Angeles (Inglewood)\, USA\n\n📺 Watch live or replay on Peacock (Spanis
@@ -1761,7 +1761,7 @@ UID:wc2026-match-83@worldcup2026.mindteam.ai
 DTSTAMP:20260702T230000Z
 DTSTART:20260702T230000Z
 DTEND:20260703T014500Z
-SUMMARY:⚽ 🇵🇹🇭🇷 POR vs CRO (Round of 32)
+SUMMARY:⚽ 🇵🇹🇭🇷 POR-CRO (Round of 32)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Portugal vs Croatia\nRound of 32  ·  Match 83\nBMO Field\, Tor
  onto\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-language / 
@@ -1782,7 +1782,7 @@ UID:wc2026-match-85@worldcup2026.mindteam.ai
 DTSTAMP:20260703T030000Z
 DTSTART:20260703T030000Z
 DTEND:20260703T054500Z
-SUMMARY:⚽ 🇨🇭🇩🇿 SUI vs ALG (Round of 32)
+SUMMARY:⚽ 🇨🇭🇩🇿 SUI-ALG (Round of 32)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Switzerland vs Algeria\nRound of 32  ·  Match 85\nBC Place\, V
  ancouver\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-languag
@@ -1803,7 +1803,7 @@ UID:wc2026-match-88@worldcup2026.mindteam.ai
 DTSTAMP:20260703T180000Z
 DTSTART:20260703T180000Z
 DTEND:20260703T204500Z
-SUMMARY:⚽ 🇦🇺🇪🇬 AUS vs EGY (Round of 32)
+SUMMARY:⚽ 🇦🇺🇪🇬 AUS-EGY (Round of 32)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:Australia vs Egypt\nRound of 32  ·  Match 88\nAT&T Stadium\, D
  allas (Arlington)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-l
@@ -1824,7 +1824,7 @@ UID:wc2026-match-86@worldcup2026.mindteam.ai
 DTSTAMP:20260703T220000Z
 DTSTART:20260703T220000Z
 DTEND:20260704T004500Z
-SUMMARY:⚽ 🇦🇷🇨🇻 ARG vs CPV (Round of 32)
+SUMMARY:⚽ 🇦🇷🇨🇻 ARG-CPV (Round of 32)
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Argentina vs Cabo Verde\nRound of 32  ·  Match 86\nHard Rock S
  tadium\, Miami\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -1845,7 +1845,7 @@ UID:wc2026-match-87@worldcup2026.mindteam.ai
 DTSTAMP:20260704T013000Z
 DTSTART:20260704T013000Z
 DTEND:20260704T041500Z
-SUMMARY:⚽ 🇨🇴🇬🇭 COL vs GHA (Round of 32)
+SUMMARY:⚽ 🇨🇴🇬🇭 COL-GHA (Round of 32)
 LOCATION:Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Colombia vs Ghana\nRound of 32  ·  Match 87\nArrowhead Stadium
  \, Kansas City\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -1866,7 +1866,7 @@ UID:wc2026-match-90@worldcup2026.mindteam.ai
 DTSTAMP:20260704T170000Z
 DTSTART:20260704T170000Z
 DTEND:20260704T194500Z
-SUMMARY:⚽ 🇨🇦🇲🇦 CAN vs MAR (Round of 16)
+SUMMARY:⚽ 🇨🇦🇲🇦 CAN-MAR (Round of 16)
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Canada vs Morocco\nRound of 16  ·  Match 90\nNRG Stadium\, Hou
  ston\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Tel
@@ -1887,7 +1887,7 @@ UID:wc2026-match-89@worldcup2026.mindteam.ai
 DTSTAMP:20260704T210000Z
 DTSTART:20260704T210000Z
 DTEND:20260704T234500Z
-SUMMARY:⚽ 🇵🇾🇫🇷 PAR vs FRA (Round of 16)
+SUMMARY:⚽ 🇵🇾🇫🇷 PAR-FRA (Round of 16)
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Paraguay vs France\nRound of 16  ·  Match 89\nLincoln Financia
  l Field\, Philadelphia\, USA\n\n📺 Watch live or replay on Peacock (Span
@@ -1908,7 +1908,7 @@ UID:wc2026-match-91@worldcup2026.mindteam.ai
 DTSTAMP:20260705T200000Z
 DTSTART:20260705T200000Z
 DTEND:20260705T224500Z
-SUMMARY:⚽ 🇧🇷🇳🇴 BRA vs NOR (Round of 16)
+SUMMARY:⚽ 🇧🇷🇳🇴 BRA-NOR (Round of 16)
 LOCATION:MetLife Stadium\, New York / New Jersey\, USA
 DESCRIPTION:Brazil vs Norway\nRound of 16  ·  Match 91\nMetLife Stadium\, 
  New York / New Jersey\, USA\n\n📺 Watch live or replay on Peacock (Spani
@@ -1929,7 +1929,7 @@ UID:wc2026-match-92@worldcup2026.mindteam.ai
 DTSTAMP:20260706T000000Z
 DTSTART:20260706T000000Z
 DTEND:20260706T024500Z
-SUMMARY:⚽ 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 MEX vs ENG (Round of 16)
+SUMMARY:⚽ 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 MEX-ENG (Round of 16)
 LOCATION:Estadio Azteca\, Mexico City\, Mexico
 DESCRIPTION:Mexico vs England\nRound of 16  ·  Match 92\nEstadio Azteca\, 
  Mexico City\, Mexico\n\n📺 Watch live or replay on Peacock (Spanish-lang
@@ -1950,7 +1950,7 @@ UID:wc2026-match-93@worldcup2026.mindteam.ai
 DTSTAMP:20260706T190000Z
 DTSTART:20260706T190000Z
 DTEND:20260706T214500Z
-SUMMARY:⚽ 🇵🇹🇪🇸 POR vs ESP (Round of 16)
+SUMMARY:⚽ 🇵🇹🇪🇸 POR-ESP (Round of 16)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:Portugal vs Spain\nRound of 16  ·  Match 93\nAT&T Stadium\, Da
  llas (Arlington)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-la
@@ -1971,7 +1971,7 @@ UID:wc2026-match-94@worldcup2026.mindteam.ai
 DTSTAMP:20260707T000000Z
 DTSTART:20260707T000000Z
 DTEND:20260707T024500Z
-SUMMARY:⚽ 🇺🇸🇧🇪 USA vs BEL (Round of 16)
+SUMMARY:⚽ 🇺🇸🇧🇪 USA-BEL (Round of 16)
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:USA vs Belgium\nRound of 16  ·  Match 94\nLumen Field\, Seattl
  e\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemu
@@ -1992,7 +1992,7 @@ UID:wc2026-match-95@worldcup2026.mindteam.ai
 DTSTAMP:20260707T160000Z
 DTSTART:20260707T160000Z
 DTEND:20260707T184500Z
-SUMMARY:⚽ 🇦🇷🇪🇬 ARG vs EGY (Round of 16)
+SUMMARY:⚽ 🇦🇷🇪🇬 ARG-EGY (Round of 16)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Argentina vs Egypt\nRound of 16  ·  Match 95\nMercedes-Benz St
  adium\, Atlanta\, USA\n\n📺 Watch live or replay on Peacock (Spanish-lan
@@ -2013,7 +2013,7 @@ UID:wc2026-match-96@worldcup2026.mindteam.ai
 DTSTAMP:20260707T200000Z
 DTSTART:20260707T200000Z
 DTEND:20260707T224500Z
-SUMMARY:⚽ 🇨🇭🇨🇴 SUI vs COL (Round of 16)
+SUMMARY:⚽ 🇨🇭🇨🇴 SUI-COL (Round of 16)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Switzerland vs Colombia\nRound of 16  ·  Match 96\nBC Place\, 
  Vancouver\, Canada\n\n📺 Watch live or replay on Peacock (Spanish-langua
@@ -2034,7 +2034,7 @@ UID:wc2026-match-97@worldcup2026.mindteam.ai
 DTSTAMP:20260709T200000Z
 DTSTART:20260709T200000Z
 DTEND:20260709T224500Z
-SUMMARY:⚽ 🇫🇷🇲🇦 FRA vs MAR (Quarter-final)
+SUMMARY:⚽ 🇫🇷🇲🇦 FRA-MAR (Quarter-final)
 LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
 DESCRIPTION:France vs Morocco\nQuarter-final  ·  Match 97\nGillette Stadiu
  m\, Boston (Foxborough)\, USA\n\n📺 Watch live or replay on Peacock (Spa
@@ -2055,7 +2055,7 @@ UID:wc2026-match-98@worldcup2026.mindteam.ai
 DTSTAMP:20260710T190000Z
 DTSTART:20260710T190000Z
 DTEND:20260710T214500Z
-SUMMARY:⚽ 🇪🇸🇧🇪 ESP vs BEL (Quarter-final)
+SUMMARY:⚽ 🇪🇸🇧🇪 ESP-BEL (Quarter-final)
 LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
 DESCRIPTION:Spain vs Belgium\nQuarter-final  ·  Match 98\nSoFi Stadium\, L
  os Angeles (Inglewood)\, USA\n\n📺 Watch live or replay on Peacock (Span
@@ -2076,7 +2076,7 @@ UID:wc2026-match-99@worldcup2026.mindteam.ai
 DTSTAMP:20260711T210000Z
 DTSTART:20260711T210000Z
 DTEND:20260711T234500Z
-SUMMARY:⚽ 🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿 NOR vs ENG (Quarter-final)
+SUMMARY:⚽ 🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿 NOR-ENG (Quarter-final)
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Norway vs England\nQuarter-final  ·  Match 99\nHard Rock Stadi
  um\, Miami\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language
@@ -2097,7 +2097,7 @@ UID:wc2026-match-100@worldcup2026.mindteam.ai
 DTSTAMP:20260712T010000Z
 DTSTART:20260712T010000Z
 DTEND:20260712T034500Z
-SUMMARY:⚽ 🌐🌐 TBD vs TBD (Quarter-final)
+SUMMARY:⚽ 🌐🌐 TBD-TBD (Quarter-final)
 LOCATION:Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Argentina/Egypt vs Switzerland/Colombia\nQuarter-final  ·  Mat
  ch 100\nArrowhead Stadium\, Kansas City\, USA\n\n📺 Watch live or replay
@@ -2118,7 +2118,7 @@ UID:wc2026-match-101@worldcup2026.mindteam.ai
 DTSTAMP:20260714T190000Z
 DTSTART:20260714T190000Z
 DTEND:20260714T214500Z
-SUMMARY:⚽ 🌐🌐 TBD vs TBD (Semi-final)
+SUMMARY:⚽ 🌐🌐 TBD-TBD (Semi-final)
 LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
 DESCRIPTION:France/Morocco vs Spain/Belgium\nSemi-final  ·  Match 101\nAT&
  T Stadium\, Dallas (Arlington)\, USA\n\n📺 Watch live or replay on Peaco
@@ -2139,7 +2139,7 @@ UID:wc2026-match-102@worldcup2026.mindteam.ai
 DTSTAMP:20260715T190000Z
 DTSTART:20260715T190000Z
 DTEND:20260715T214500Z
-SUMMARY:⚽ 🌐🌐 TBD vs TBD (Semi-final)
+SUMMARY:⚽ 🌐🌐 TBD-TBD (Semi-final)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Norway/England vs Winner M100\nSemi-final  ·  Match 102\nMerce
  des-Benz Stadium\, Atlanta\, USA\n\n📺 Watch live or replay on Peacock (
@@ -2160,7 +2160,7 @@ UID:wc2026-match-103@worldcup2026.mindteam.ai
 DTSTAMP:20260718T210000Z
 DTSTART:20260718T210000Z
 DTEND:20260718T234500Z
-SUMMARY:⚽ 🌐🌐 TBD vs TBD (Third-place play-off)
+SUMMARY:⚽ 🌐🌐 TBD-TBD (Third-place play-off)
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Loser M101 vs Loser M102\nThird-place play-off  ·  Match 103\n
  Hard Rock Stadium\, Miami\, USA\n\n📺 Watch live or replay on Peacock (S
@@ -2181,7 +2181,7 @@ UID:wc2026-match-104@worldcup2026.mindteam.ai
 DTSTAMP:20260719T190000Z
 DTSTART:20260719T190000Z
 DTEND:20260719T214500Z
-SUMMARY:⚽ 🌐🌐 TBD vs TBD (Final)
+SUMMARY:⚽ 🌐🌐 TBD-TBD (Final)
 LOCATION:MetLife Stadium\, New York / New Jersey\, USA
 DESCRIPTION:Winner M101 vs Winner M102\nFinal  ·  Match 104\nMetLife Stadi
  um\, New York / New Jersey\, USA\n\n📺 Watch live or replay on Peacock (

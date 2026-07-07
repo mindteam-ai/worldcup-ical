@@ -472,12 +472,12 @@ def _matchup(m: Match, by_number: dict[int, Match]) -> str:
 
 
 def _summary(m: Match, by_number: dict[int, Match]) -> str:
-    """Ball, then all flags together, then trigrams, then the round."""
+    """Ball, then both flags together, then hyphenated trigrams, then round."""
     home_flags, home = _slot(m, "home", by_number, code=True)
     away_flags, away = _slot(m, "away", by_number, code=True)
     flags = home_flags + away_flags
     lead = f"⚽ {flags} " if flags else "⚽ "
-    return f"{lead}{home} vs {away} ({m.round_label})"
+    return f"{lead}{home}-{away} ({m.round_label})"
 
 
 def build_ics(matches: list[Match], reminder_minutes: int | None) -> str:
