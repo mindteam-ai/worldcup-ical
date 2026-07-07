@@ -100,6 +100,83 @@ VENUES: list[tuple[tuple[str, ...], tuple[str, str, str]]] = [
      ("Estadio BBVA", "Monterrey", "Mexico")),
 ]
 
+# Team display: source team name -> (flag key, FIFA trigram). Flag key is the
+# ISO 3166-1 alpha-2 code (rendered as a regional-indicator emoji) or a GB
+# subdivision key for the tag-sequence flags (England, Scotland). Validation
+# fails loudly if the source ever names a team not listed here.
+TEAM_STYLE: dict[str, tuple[str, str]] = {
+    "Algeria": ("DZ", "ALG"),
+    "Argentina": ("AR", "ARG"),
+    "Australia": ("AU", "AUS"),
+    "Austria": ("AT", "AUT"),
+    "Belgium": ("BE", "BEL"),
+    "Bosnia and Herzegovina": ("BA", "BIH"),
+    "Brazil": ("BR", "BRA"),
+    "Cabo Verde": ("CV", "CPV"),
+    "Canada": ("CA", "CAN"),
+    "Colombia": ("CO", "COL"),
+    "Congo DR": ("CD", "COD"),
+    "Croatia": ("HR", "CRO"),
+    "Curaçao": ("CW", "CUW"),
+    "Czechia": ("CZ", "CZE"),
+    "Côte d'Ivoire": ("CI", "CIV"),
+    "Ecuador": ("EC", "ECU"),
+    "Egypt": ("EG", "EGY"),
+    "England": ("gb-eng", "ENG"),
+    "France": ("FR", "FRA"),
+    "Germany": ("DE", "GER"),
+    "Ghana": ("GH", "GHA"),
+    "Haiti": ("HT", "HAI"),
+    "IR Iran": ("IR", "IRN"),
+    "Iraq": ("IQ", "IRQ"),
+    "Japan": ("JP", "JPN"),
+    "Jordan": ("JO", "JOR"),
+    "Korea Republic": ("KR", "KOR"),
+    "Mexico": ("MX", "MEX"),
+    "Morocco": ("MA", "MAR"),
+    "Netherlands": ("NL", "NED"),
+    "New Zealand": ("NZ", "NZL"),
+    "Norway": ("NO", "NOR"),
+    "Panama": ("PA", "PAN"),
+    "Paraguay": ("PY", "PAR"),
+    "Portugal": ("PT", "POR"),
+    "Qatar": ("QA", "QAT"),
+    "Saudi Arabia": ("SA", "KSA"),
+    "Scotland": ("gb-sct", "SCO"),
+    "Senegal": ("SN", "SEN"),
+    "South Africa": ("ZA", "RSA"),
+    "Spain": ("ES", "ESP"),
+    "Sweden": ("SE", "SWE"),
+    "Switzerland": ("CH", "SUI"),
+    "Tunisia": ("TN", "TUN"),
+    "Türkiye": ("TR", "TUR"),
+    "USA": ("US", "USA"),
+    "Uruguay": ("UY", "URU"),
+    "Uzbekistan": ("UZ", "UZB"),
+}
+
+# Unicode tag-sequence flags (black flag + subdivision tags) for the UK home
+# nations, which have no ISO alpha-2 code of their own.
+_TAG_FLAGS = {
+    "gb-eng": "\U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F",
+    "gb-sct": "\U0001F3F4\U000E0067\U000E0062\U000E0073\U000E0063\U000E0074\U000E007F",
+}
+
+
+def _flag(key: str) -> str:
+    if key in _TAG_FLAGS:
+        return _TAG_FLAGS[key]
+    return "".join(chr(0x1F1E6 + ord(c) - ord("A")) for c in key.upper())
+
+
+def _team_disp(name: str) -> str:
+    """Compact display for event titles: flag + FIFA trigram."""
+    style = TEAM_STYLE.get(name)
+    if not style:
+        return name
+    return f"{_flag(style[0])} {style[1]}"
+
+
 # Bracket feeders for knockout matches from the round of 16 onward: match
 # number -> (kind, home feeder match, away feeder match). Lets an undecided
 # slot render as "France/Morocco" instead of "TBD" once its feeder match has
@@ -309,6 +386,10 @@ def validate(matches: list[Match]) -> None:
                 # No national team name contains a digit; one showing up means
                 # the source started embedding scores or changed schema.
                 errors.append(f"match {m.number}: suspicious team name {team!r}")
+            elif team != "TBD" and team not in TEAM_STYLE:
+                # A rename upstream (e.g. "South Korea") would otherwise
+                # silently render without flag/trigram.
+                errors.append(f"match {m.number}: team {team!r} missing from TEAM_STYLE")
 
     if errors:
         for e in errors:
@@ -358,12 +439,14 @@ def _fmt_dt(dt: datetime) -> str:
     return dt.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 
-def _slot_label(m: Match, side: str, by_number: dict[int, Match]) -> str:
+def _slot_label(m: Match, side: str, by_number: dict[int, Match],
+                disp=lambda name: name) -> str:
     """Label one side of a knockout match, using the bracket feeder when the
-    team itself is still undecided."""
+    team itself is still undecided. `disp` maps a known team name to its
+    display form (identity for full names, _team_disp for flag + trigram)."""
     team = m.home if side == "home" else m.away
     if team != "TBD":
-        return team
+        return disp(team)
     feeder_info = KNOCKOUT_FEEDERS.get(m.number)
     if not feeder_info:
         return "TBD"
@@ -371,17 +454,19 @@ def _slot_label(m: Match, side: str, by_number: dict[int, Match]) -> str:
     feeder = by_number.get(home_feed if side == "home" else away_feed)
     prefix = "Winner" if kind == "winner" else "Loser"
     if feeder and feeder.home != "TBD" and feeder.away != "TBD":
-        pair = f"{feeder.home}/{feeder.away}"
+        pair = f"{disp(feeder.home)}/{disp(feeder.away)}"
         return pair if kind == "winner" else f"{pair} loser"
     return f"{prefix} M{home_feed if side == 'home' else away_feed}"
 
 
+def _matchup(m: Match, by_number: dict[int, Match], disp=lambda name: name) -> str:
+    home = _slot_label(m, "home", by_number, disp)
+    away = _slot_label(m, "away", by_number, disp)
+    return f"{home} vs {away}"
+
+
 def _summary(m: Match, by_number: dict[int, Match]) -> str:
-    if m.is_knockout:
-        home = _slot_label(m, "home", by_number)
-        away = _slot_label(m, "away", by_number)
-        return f"⚽ {m.round_label}: {home} vs {away}"
-    return f"⚽ {m.home} vs {m.away} ({m.round_label})"
+    return f"⚽ {_matchup(m, by_number, _team_disp)} ({m.round_label})"
 
 
 def build_ics(matches: list[Match], reminder_minutes: int | None) -> str:
@@ -413,6 +498,7 @@ def build_ics(matches: list[Match], reminder_minutes: int | None) -> str:
         location = ", ".join(loc_parts)
 
         desc_lines = [
+            _matchup(m, by_number),  # full country names (titles use trigrams)
             f"{m.round_label}  ·  Match {m.number}",
             location,
             "",

@@ -31,9 +31,12 @@ Apple Calendar  ->  webcal://mindteam-ai.github.io/worldcup-ical/worldcup.ics
   kickoffs inside the tournament window, and no digits in team names (a score
   sneaking into the schema). Any anomaly exits non-zero, the Action commits
   nothing, and the previously published feed keeps serving.
+- **Event titles** use flag + FIFA trigram with the round in parentheses —
+  `⚽ 🇦🇷 ARG vs 🇪🇬 EGY (Round of 16)` — with full country names in the
+  description. The name→flag/trigram table is `TEAM_STYLE` in the script.
 - **Undecided knockout slots** are labeled from the bracket: once a feeder
-  match has teams, its slot renders as e.g. `France/Morocco` (meaning the
-  winner of France vs Morocco); before that, `Winner M97` / `Loser M101`.
+  match has teams, its slot renders as e.g. `🇫🇷 FRA/🇲🇦 MAR` (meaning that
+  match's winner); before that, `Winner M97` / `Loser M101`.
 - Every event carries a **30-minute pre-kickoff reminder** (`VALARM`). Apple
   Calendar honors these unless you check "Remove alerts" on the subscription;
   Google Calendar ignores alarms in subscribed feeds. Disable with
