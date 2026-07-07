@@ -5,7 +5,7 @@ Design goals (per request):
   * Lists every World Cup match (group stage + all knockout rounds).
   * Re-runs every 6 hours so knockout matches fill in with the *actual*
     qualified teams as the bracket resolves.
-  * Each event shows the host stadium + city in LOCATION.
+  * Each event shows the host city + country in LOCATION (no stadium names).
   * Scores are NEVER written into the feed (so a finished match's event
     never mutates into "Team A 2-1 Team B").
   * Each event links to Peacock to watch live or the full replay.
@@ -504,9 +504,9 @@ def build_ics(matches: list[Match], reminder_minutes: int | None) -> str:
     for m in matches:
         start = m.start
         end = m.start + (KNOCKOUT_DURATION if m.is_knockout else GROUP_DURATION)
-        stadium, city, country = resolve_venue(m.venue_raw)
-        loc_parts = [stadium] + [p for p in (city, country) if p]
-        location = ", ".join(loc_parts)
+        # City + country only; the stadium name is deliberately omitted.
+        _, city, country = resolve_venue(m.venue_raw)
+        location = ", ".join(p for p in (city, country) if p) or m.venue_raw
 
         desc_lines = [
             _matchup(m, by_number),  # full country names (titles use trigrams)

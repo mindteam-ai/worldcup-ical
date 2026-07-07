@@ -3,7 +3,7 @@
 A calendar feed of every 2026 FIFA World Cup match that your Apple Calendar can
 subscribe to. It refreshes every 6 hours so knockout matches fill in with the
 **actual** qualified teams as the bracket resolves. Each event shows the host
-stadium/city and links to Peacock to watch live or the full replay. **Scores are
+city and links to Peacock to watch live or the full replay. **Scores are
 never written into the feed**, so a finished match never becomes a spoiler.
 
 ## How it works
