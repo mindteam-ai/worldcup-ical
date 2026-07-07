@@ -443,13 +443,15 @@ def _fmt_dt(dt: datetime) -> str:
 
 def _slot(m: Match, side: str, by_number: dict[int, Match],
           code: bool) -> tuple[str, str]:
-    """One side of a match as (flags, text). Text is the FIFA trigram when
-    `code` else the full name; undecided slots fall back to the bracket
-    feeder ("FRA/MAR" with both flags) or "Winner M100" (no flag)."""
-    name_of = _team_code if code else (lambda n: n)
+    """One side of a match as (flag, text). Titles (`code=True`) use the FIFA
+    trigram, with a globe placeholder for an undecided slot; descriptions
+    (`code=False`) use full names and spell out the bracket feeder
+    ("France/Morocco" meaning that match's winner, or "Winner M100")."""
     team = m.home if side == "home" else m.away
     if team != "TBD":
-        return _team_flag(team), name_of(team)
+        return _team_flag(team), (_team_code(team) if code else team)
+    if code:
+        return "🌐", "TBD"
     feeder_info = KNOCKOUT_FEEDERS.get(m.number)
     if not feeder_info:
         return "", "TBD"
@@ -457,9 +459,8 @@ def _slot(m: Match, side: str, by_number: dict[int, Match],
     feeder = by_number.get(home_feed if side == "home" else away_feed)
     prefix = "Winner" if kind == "winner" else "Loser"
     if feeder and feeder.home != "TBD" and feeder.away != "TBD":
-        flags = _team_flag(feeder.home) + _team_flag(feeder.away)
-        pair = f"{name_of(feeder.home)}/{name_of(feeder.away)}"
-        return flags, (pair if kind == "winner" else f"{pair} loser")
+        pair = f"{feeder.home}/{feeder.away}"
+        return "", (pair if kind == "winner" else f"{pair} loser")
     return "", f"{prefix} M{home_feed if side == 'home' else away_feed}"
 
 

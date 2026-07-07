@@ -35,10 +35,10 @@ Apple Calendar  ->  webcal://mindteam-ai.github.io/worldcup-ical/worldcup.ics
   parentheses — `⚽ 🇦🇷🇪🇬 ARG vs EGY (Round of 16)` — with full country
   names in the description. The name→flag/trigram table is `TEAM_STYLE`
   in the script.
-- **Undecided knockout slots** are labeled from the bracket: once a feeder
-  match has teams, its slot renders as e.g. `FRA/MAR` with both flags in the
-  leading cluster (meaning that match's winner); before that, `Winner M97` /
-  `Loser M101` with no flag.
+- **Undecided knockout slots** show `TBD` with a 🌐 placeholder flag in the
+  title. The description spells out the bracket: `France/Morocco` (meaning
+  that match's winner) once the feeder match has teams, `Winner M100` /
+  `Loser M101` before that.
 - Every event carries a **30-minute pre-kickoff reminder** (`VALARM`). Apple
   Calendar honors these unless you check "Remove alerts" on the subscription;
   Google Calendar ignores alarms in subscribed feeds. Disable with
