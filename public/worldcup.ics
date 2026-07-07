@@ -1,0 +1,2199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mindteam-ai//World Cup 2026 iCal Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 FIFA World Cup
+NAME:2026 FIFA World Cup
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:All 2026 FIFA World Cup matches. Knockout teams update automat
+ ically as groups finish. Watch on Peacock. No scores shown.
+X-APPLE-CALENDAR-COLOR:#0B8043
+COLOR:forestgreen
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:wc2026-match-1@worldcup2026.mindteam.ai
+DTSTAMP:20260611T190000Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:⚽ Mexico vs South Africa (Group A)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Group A  ·  Match 1\nEstadio Azteca\, Mexico City\, Mexico\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group A
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-2@worldcup2026.mindteam.ai
+DTSTAMP:20260612T020000Z
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:⚽ Korea Republic vs Czechia (Group A)
+LOCATION:Estadio Akron\, Guadalajara\, Mexico
+DESCRIPTION:Group A  ·  Match 2\nEstadio Akron\, Guadalajara\, Mexico\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group A
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-3@worldcup2026.mindteam.ai
+DTSTAMP:20260612T190000Z
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:⚽ Canada vs Bosnia and Herzegovina (Group B)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Group B  ·  Match 3\nBMO Field\, Toronto\, Canada\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group B
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-4@worldcup2026.mindteam.ai
+DTSTAMP:20260613T010000Z
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:⚽ USA vs Paraguay (Group D)
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
+DESCRIPTION:Group D  ·  Match 4\nSoFi Stadium\, Los Angeles (Inglewood)\, 
+ USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\
+ , Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAut
+ o-updating feed — knockout teams fill in as the bracket resolves. Scores
+  are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group D
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-8@worldcup2026.mindteam.ai
+DTSTAMP:20260613T190000Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:⚽ Qatar vs Switzerland (Group B)
+LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
+DESCRIPTION:Group B  ·  Match 8\nLevi's Stadium\, San Francisco Bay Area (
+ Santa Clara)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langua
+ ge / Telemundo\, Premium subscription): https://www.peacocktv.com/sports/w
+ orld-cup\n\nAuto-updating feed — knockout teams fill in as the bracket r
+ esolves. Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group B
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-7@worldcup2026.mindteam.ai
+DTSTAMP:20260613T220000Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:⚽ Brazil vs Morocco (Group C)
+LOCATION:MetLife Stadium\, New York / New Jersey\, USA
+DESCRIPTION:Group C  ·  Match 7\nMetLife Stadium\, New York / New Jersey\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group C
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-5@worldcup2026.mindteam.ai
+DTSTAMP:20260614T010000Z
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:⚽ Haiti vs Scotland (Group C)
+LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
+DESCRIPTION:Group C  ·  Match 5\nGillette Stadium\, Boston (Foxborough)\, 
+ USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\
+ , Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAut
+ o-updating feed — knockout teams fill in as the bracket resolves. Scores
+  are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group C
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-6@worldcup2026.mindteam.ai
+DTSTAMP:20260614T040000Z
+DTSTART:20260614T040000Z
+DTEND:20260614T060000Z
+SUMMARY:⚽ Australia vs Türkiye (Group D)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Group D  ·  Match 6\nBC Place\, Vancouver\, Canada\n\n📺 Wat
+ ch live or replay on Peacock (Spanish-language / Telemundo\, Premium subsc
+ ription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed
+  — knockout teams fill in as the bracket resolves. Scores are intentiona
+ lly not shown.
+CATEGORIES:FIFA World Cup 2026,Group D
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-10@worldcup2026.mindteam.ai
+DTSTAMP:20260614T170000Z
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:⚽ Germany vs Curaçao (Group E)
+LOCATION:NRG Stadium\, Houston\, USA
+DESCRIPTION:Group E  ·  Match 10\nNRG Stadium\, Houston\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group E
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-11@worldcup2026.mindteam.ai
+DTSTAMP:20260614T200000Z
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:⚽ Netherlands vs Japan (Group F)
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Group F  ·  Match 11\nAT&T Stadium\, Dallas (Arlington)\, USA\
+ n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Pr
+ emium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-up
+ dating feed — knockout teams fill in as the bracket resolves. Scores are
+  intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group F
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-9@worldcup2026.mindteam.ai
+DTSTAMP:20260614T230000Z
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:⚽ Côte d'Ivoire vs Ecuador (Group E)
+LOCATION:Lincoln Financial Field\, Philadelphia\, USA
+DESCRIPTION:Group E  ·  Match 9\nLincoln Financial Field\, Philadelphia\, 
+ USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\
+ , Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAut
+ o-updating feed — knockout teams fill in as the bracket resolves. Scores
+  are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group E
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-12@worldcup2026.mindteam.ai
+DTSTAMP:20260615T020000Z
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:⚽ Sweden vs Tunisia (Group F)
+LOCATION:Estadio BBVA\, Monterrey\, Mexico
+DESCRIPTION:Group F  ·  Match 12\nEstadio BBVA\, Monterrey\, Mexico\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group F
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-14@worldcup2026.mindteam.ai
+DTSTAMP:20260615T160000Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:⚽ Spain vs Cabo Verde (Group H)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
+DESCRIPTION:Group H  ·  Match 14\nMercedes-Benz Stadium\, Atlanta\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group H
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-16@worldcup2026.mindteam.ai
+DTSTAMP:20260615T190000Z
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:⚽ Belgium vs Egypt (Group G)
+LOCATION:Lumen Field\, Seattle\, USA
+DESCRIPTION:Group G  ·  Match 16\nLumen Field\, Seattle\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group G
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-13@worldcup2026.mindteam.ai
+DTSTAMP:20260615T220000Z
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:⚽ Saudi Arabia vs Uruguay (Group H)
+LOCATION:Hard Rock Stadium\, Miami\, USA
+DESCRIPTION:Group H  ·  Match 13\nHard Rock Stadium\, Miami\, USA\n\n📺 
+ Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium su
+ bscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating f
+ eed — knockout teams fill in as the bracket resolves. Scores are intenti
+ onally not shown.
+CATEGORIES:FIFA World Cup 2026,Group H
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-15@worldcup2026.mindteam.ai
+DTSTAMP:20260616T010000Z
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:⚽ IR Iran vs New Zealand (Group G)
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
+DESCRIPTION:Group G  ·  Match 15\nSoFi Stadium\, Los Angeles (Inglewood)\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group G
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-17@worldcup2026.mindteam.ai
+DTSTAMP:20260616T190000Z
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:⚽ France vs Senegal (Group I)
+LOCATION:MetLife Stadium\, New York / New Jersey\, USA
+DESCRIPTION:Group I  ·  Match 17\nMetLife Stadium\, New York / New Jersey\
+ , USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
+ o\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nA
+ uto-updating feed — knockout teams fill in as the bracket resolves. Scor
+ es are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group I
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-18@worldcup2026.mindteam.ai
+DTSTAMP:20260616T220000Z
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:⚽ Iraq vs Norway (Group I)
+LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
+DESCRIPTION:Group I  ·  Match 18\nGillette Stadium\, Boston (Foxborough)\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group I
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-19@worldcup2026.mindteam.ai
+DTSTAMP:20260617T010000Z
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:⚽ Argentina vs Algeria (Group J)
+LOCATION:Arrowhead Stadium\, Kansas City\, USA
+DESCRIPTION:Group J  ·  Match 19\nArrowhead Stadium\, Kansas City\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group J
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-20@worldcup2026.mindteam.ai
+DTSTAMP:20260617T040000Z
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:⚽ Austria vs Jordan (Group J)
+LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
+DESCRIPTION:Group J  ·  Match 20\nLevi's Stadium\, San Francisco Bay Area 
+ (Santa Clara)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langu
+ age / Telemundo\, Premium subscription): https://www.peacocktv.com/sports/
+ world-cup\n\nAuto-updating feed — knockout teams fill in as the bracket 
+ resolves. Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group J
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-23@worldcup2026.mindteam.ai
+DTSTAMP:20260617T170000Z
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:⚽ Portugal vs Congo DR (Group K)
+LOCATION:NRG Stadium\, Houston\, USA
+DESCRIPTION:Group K  ·  Match 23\nNRG Stadium\, Houston\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group K
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-22@worldcup2026.mindteam.ai
+DTSTAMP:20260617T200000Z
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:⚽ England vs Croatia (Group L)
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Group L  ·  Match 22\nAT&T Stadium\, Dallas (Arlington)\, USA\
+ n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Pr
+ emium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-up
+ dating feed — knockout teams fill in as the bracket resolves. Scores are
+  intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group L
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-21@worldcup2026.mindteam.ai
+DTSTAMP:20260617T230000Z
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:⚽ Ghana vs Panama (Group L)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Group L  ·  Match 21\nBMO Field\, Toronto\, Canada\n\n📺 Wat
+ ch live or replay on Peacock (Spanish-language / Telemundo\, Premium subsc
+ ription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed
+  — knockout teams fill in as the bracket resolves. Scores are intentiona
+ lly not shown.
+CATEGORIES:FIFA World Cup 2026,Group L
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-24@worldcup2026.mindteam.ai
+DTSTAMP:20260618T020000Z
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:⚽ Uzbekistan vs Colombia (Group K)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Group K  ·  Match 24\nEstadio Azteca\, Mexico City\, Mexico\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group K
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-25@worldcup2026.mindteam.ai
+DTSTAMP:20260618T160000Z
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:⚽ Czechia vs South Africa (Group A)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
+DESCRIPTION:Group A  ·  Match 25\nMercedes-Benz Stadium\, Atlanta\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group A
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-26@worldcup2026.mindteam.ai
+DTSTAMP:20260618T190000Z
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:⚽ Switzerland vs Bosnia and Herzegovina (Group B)
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
+DESCRIPTION:Group B  ·  Match 26\nSoFi Stadium\, Los Angeles (Inglewood)\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group B
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-27@worldcup2026.mindteam.ai
+DTSTAMP:20260618T220000Z
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:⚽ Canada vs Qatar (Group B)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Group B  ·  Match 27\nBC Place\, Vancouver\, Canada\n\n📺 Wa
+ tch live or replay on Peacock (Spanish-language / Telemundo\, Premium subs
+ cription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating fee
+ d — knockout teams fill in as the bracket resolves. Scores are intention
+ ally not shown.
+CATEGORIES:FIFA World Cup 2026,Group B
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-28@worldcup2026.mindteam.ai
+DTSTAMP:20260619T010000Z
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:⚽ Mexico vs Korea Republic (Group A)
+LOCATION:Estadio Akron\, Guadalajara\, Mexico
+DESCRIPTION:Group A  ·  Match 28\nEstadio Akron\, Guadalajara\, Mexico\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group A
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-32@worldcup2026.mindteam.ai
+DTSTAMP:20260619T190000Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:⚽ USA vs Australia (Group D)
+LOCATION:Lumen Field\, Seattle\, USA
+DESCRIPTION:Group D  ·  Match 32\nLumen Field\, Seattle\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group D
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-30@worldcup2026.mindteam.ai
+DTSTAMP:20260619T220000Z
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:⚽ Scotland vs Morocco (Group C)
+LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
+DESCRIPTION:Group C  ·  Match 30\nGillette Stadium\, Boston (Foxborough)\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group C
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-29@worldcup2026.mindteam.ai
+DTSTAMP:20260620T003000Z
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:⚽ Brazil vs Haiti (Group C)
+LOCATION:Lincoln Financial Field\, Philadelphia\, USA
+DESCRIPTION:Group C  ·  Match 29\nLincoln Financial Field\, Philadelphia\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group C
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-31@worldcup2026.mindteam.ai
+DTSTAMP:20260620T030000Z
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:⚽ Türkiye vs Paraguay (Group D)
+LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
+DESCRIPTION:Group D  ·  Match 31\nLevi's Stadium\, San Francisco Bay Area 
+ (Santa Clara)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langu
+ age / Telemundo\, Premium subscription): https://www.peacocktv.com/sports/
+ world-cup\n\nAuto-updating feed — knockout teams fill in as the bracket 
+ resolves. Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group D
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-35@worldcup2026.mindteam.ai
+DTSTAMP:20260620T170000Z
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:⚽ Netherlands vs Sweden (Group F)
+LOCATION:NRG Stadium\, Houston\, USA
+DESCRIPTION:Group F  ·  Match 35\nNRG Stadium\, Houston\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group F
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-33@worldcup2026.mindteam.ai
+DTSTAMP:20260620T200000Z
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:⚽ Germany vs Côte d'Ivoire (Group E)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Group E  ·  Match 33\nBMO Field\, Toronto\, Canada\n\n📺 Wat
+ ch live or replay on Peacock (Spanish-language / Telemundo\, Premium subsc
+ ription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed
+  — knockout teams fill in as the bracket resolves. Scores are intentiona
+ lly not shown.
+CATEGORIES:FIFA World Cup 2026,Group E
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-34@worldcup2026.mindteam.ai
+DTSTAMP:20260621T000000Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:⚽ Ecuador vs Curaçao (Group E)
+LOCATION:Arrowhead Stadium\, Kansas City\, USA
+DESCRIPTION:Group E  ·  Match 34\nArrowhead Stadium\, Kansas City\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group E
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-36@worldcup2026.mindteam.ai
+DTSTAMP:20260621T040000Z
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:⚽ Tunisia vs Japan (Group F)
+LOCATION:Estadio BBVA\, Monterrey\, Mexico
+DESCRIPTION:Group F  ·  Match 36\nEstadio BBVA\, Monterrey\, Mexico\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group F
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-38@worldcup2026.mindteam.ai
+DTSTAMP:20260621T160000Z
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:⚽ Spain vs Saudi Arabia (Group H)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
+DESCRIPTION:Group H  ·  Match 38\nMercedes-Benz Stadium\, Atlanta\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group H
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-39@worldcup2026.mindteam.ai
+DTSTAMP:20260621T190000Z
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:⚽ Belgium vs IR Iran (Group G)
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
+DESCRIPTION:Group G  ·  Match 39\nSoFi Stadium\, Los Angeles (Inglewood)\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group G
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-37@worldcup2026.mindteam.ai
+DTSTAMP:20260621T220000Z
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:⚽ Uruguay vs Cabo Verde (Group H)
+LOCATION:Hard Rock Stadium\, Miami\, USA
+DESCRIPTION:Group H  ·  Match 37\nHard Rock Stadium\, Miami\, USA\n\n📺 
+ Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium su
+ bscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating f
+ eed — knockout teams fill in as the bracket resolves. Scores are intenti
+ onally not shown.
+CATEGORIES:FIFA World Cup 2026,Group H
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-40@worldcup2026.mindteam.ai
+DTSTAMP:20260622T010000Z
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:⚽ New Zealand vs Egypt (Group G)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Group G  ·  Match 40\nBC Place\, Vancouver\, Canada\n\n📺 Wa
+ tch live or replay on Peacock (Spanish-language / Telemundo\, Premium subs
+ cription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating fee
+ d — knockout teams fill in as the bracket resolves. Scores are intention
+ ally not shown.
+CATEGORIES:FIFA World Cup 2026,Group G
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-43@worldcup2026.mindteam.ai
+DTSTAMP:20260622T170000Z
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:⚽ Argentina vs Austria (Group J)
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Group J  ·  Match 43\nAT&T Stadium\, Dallas (Arlington)\, USA\
+ n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Pr
+ emium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-up
+ dating feed — knockout teams fill in as the bracket resolves. Scores are
+  intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group J
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-42@worldcup2026.mindteam.ai
+DTSTAMP:20260622T210000Z
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:⚽ France vs Iraq (Group I)
+LOCATION:Lincoln Financial Field\, Philadelphia\, USA
+DESCRIPTION:Group I  ·  Match 42\nLincoln Financial Field\, Philadelphia\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group I
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-41@worldcup2026.mindteam.ai
+DTSTAMP:20260623T000000Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:⚽ Norway vs Senegal (Group I)
+LOCATION:MetLife Stadium\, New York / New Jersey\, USA
+DESCRIPTION:Group I  ·  Match 41\nMetLife Stadium\, New York / New Jersey\
+ , USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
+ o\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nA
+ uto-updating feed — knockout teams fill in as the bracket resolves. Scor
+ es are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group I
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-44@worldcup2026.mindteam.ai
+DTSTAMP:20260623T030000Z
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:⚽ Jordan vs Algeria (Group J)
+LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
+DESCRIPTION:Group J  ·  Match 44\nLevi's Stadium\, San Francisco Bay Area 
+ (Santa Clara)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langu
+ age / Telemundo\, Premium subscription): https://www.peacocktv.com/sports/
+ world-cup\n\nAuto-updating feed — knockout teams fill in as the bracket 
+ resolves. Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group J
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-47@worldcup2026.mindteam.ai
+DTSTAMP:20260623T170000Z
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:⚽ Portugal vs Uzbekistan (Group K)
+LOCATION:NRG Stadium\, Houston\, USA
+DESCRIPTION:Group K  ·  Match 47\nNRG Stadium\, Houston\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group K
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-45@worldcup2026.mindteam.ai
+DTSTAMP:20260623T200000Z
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:⚽ England vs Ghana (Group L)
+LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
+DESCRIPTION:Group L  ·  Match 45\nGillette Stadium\, Boston (Foxborough)\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group L
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-46@worldcup2026.mindteam.ai
+DTSTAMP:20260623T230000Z
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:⚽ Panama vs Croatia (Group L)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Group L  ·  Match 46\nBMO Field\, Toronto\, Canada\n\n📺 Wat
+ ch live or replay on Peacock (Spanish-language / Telemundo\, Premium subsc
+ ription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed
+  — knockout teams fill in as the bracket resolves. Scores are intentiona
+ lly not shown.
+CATEGORIES:FIFA World Cup 2026,Group L
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-48@worldcup2026.mindteam.ai
+DTSTAMP:20260624T020000Z
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:⚽ Colombia vs Congo DR (Group K)
+LOCATION:Estadio Akron\, Guadalajara\, Mexico
+DESCRIPTION:Group K  ·  Match 48\nEstadio Akron\, Guadalajara\, Mexico\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group K
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-51@worldcup2026.mindteam.ai
+DTSTAMP:20260624T190000Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:⚽ Switzerland vs Canada (Group B)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Group B  ·  Match 51\nBC Place\, Vancouver\, Canada\n\n📺 Wa
+ tch live or replay on Peacock (Spanish-language / Telemundo\, Premium subs
+ cription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating fee
+ d — knockout teams fill in as the bracket resolves. Scores are intention
+ ally not shown.
+CATEGORIES:FIFA World Cup 2026,Group B
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-52@worldcup2026.mindteam.ai
+DTSTAMP:20260624T190000Z
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:⚽ Bosnia and Herzegovina vs Qatar (Group B)
+LOCATION:Lumen Field\, Seattle\, USA
+DESCRIPTION:Group B  ·  Match 52\nLumen Field\, Seattle\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group B
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-49@worldcup2026.mindteam.ai
+DTSTAMP:20260624T220000Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:⚽ Scotland vs Brazil (Group C)
+LOCATION:Hard Rock Stadium\, Miami\, USA
+DESCRIPTION:Group C  ·  Match 49\nHard Rock Stadium\, Miami\, USA\n\n📺 
+ Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium su
+ bscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating f
+ eed — knockout teams fill in as the bracket resolves. Scores are intenti
+ onally not shown.
+CATEGORIES:FIFA World Cup 2026,Group C
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-50@worldcup2026.mindteam.ai
+DTSTAMP:20260624T220000Z
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:⚽ Morocco vs Haiti (Group C)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
+DESCRIPTION:Group C  ·  Match 50\nMercedes-Benz Stadium\, Atlanta\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group C
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-53@worldcup2026.mindteam.ai
+DTSTAMP:20260625T010000Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:⚽ Czechia vs Mexico (Group A)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Group A  ·  Match 53\nEstadio Azteca\, Mexico City\, Mexico\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group A
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-54@worldcup2026.mindteam.ai
+DTSTAMP:20260625T010000Z
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:⚽ South Africa vs Korea Republic (Group A)
+LOCATION:Estadio BBVA\, Monterrey\, Mexico
+DESCRIPTION:Group A  ·  Match 54\nEstadio BBVA\, Monterrey\, Mexico\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group A
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-55@worldcup2026.mindteam.ai
+DTSTAMP:20260625T200000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:⚽ Curaçao vs Côte d'Ivoire (Group E)
+LOCATION:Lincoln Financial Field\, Philadelphia\, USA
+DESCRIPTION:Group E  ·  Match 55\nLincoln Financial Field\, Philadelphia\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group E
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-56@worldcup2026.mindteam.ai
+DTSTAMP:20260625T200000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:⚽ Ecuador vs Germany (Group E)
+LOCATION:MetLife Stadium\, New York / New Jersey\, USA
+DESCRIPTION:Group E  ·  Match 56\nMetLife Stadium\, New York / New Jersey\
+ , USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
+ o\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nA
+ uto-updating feed — knockout teams fill in as the bracket resolves. Scor
+ es are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group E
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-57@worldcup2026.mindteam.ai
+DTSTAMP:20260625T230000Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:⚽ Japan vs Sweden (Group F)
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Group F  ·  Match 57\nAT&T Stadium\, Dallas (Arlington)\, USA\
+ n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Pr
+ emium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-up
+ dating feed — knockout teams fill in as the bracket resolves. Scores are
+  intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group F
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-58@worldcup2026.mindteam.ai
+DTSTAMP:20260625T230000Z
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:⚽ Tunisia vs Netherlands (Group F)
+LOCATION:Arrowhead Stadium\, Kansas City\, USA
+DESCRIPTION:Group F  ·  Match 58\nArrowhead Stadium\, Kansas City\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group F
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-59@worldcup2026.mindteam.ai
+DTSTAMP:20260626T020000Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:⚽ Türkiye vs USA (Group D)
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
+DESCRIPTION:Group D  ·  Match 59\nSoFi Stadium\, Los Angeles (Inglewood)\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group D
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-60@worldcup2026.mindteam.ai
+DTSTAMP:20260626T020000Z
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:⚽ Paraguay vs Australia (Group D)
+LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
+DESCRIPTION:Group D  ·  Match 60\nLevi's Stadium\, San Francisco Bay Area 
+ (Santa Clara)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-langu
+ age / Telemundo\, Premium subscription): https://www.peacocktv.com/sports/
+ world-cup\n\nAuto-updating feed — knockout teams fill in as the bracket 
+ resolves. Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group D
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-61@worldcup2026.mindteam.ai
+DTSTAMP:20260626T190000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:⚽ Norway vs France (Group I)
+LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
+DESCRIPTION:Group I  ·  Match 61\nGillette Stadium\, Boston (Foxborough)\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group I
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-62@worldcup2026.mindteam.ai
+DTSTAMP:20260626T190000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:⚽ Senegal vs Iraq (Group I)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Group I  ·  Match 62\nBMO Field\, Toronto\, Canada\n\n📺 Wat
+ ch live or replay on Peacock (Spanish-language / Telemundo\, Premium subsc
+ ription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed
+  — knockout teams fill in as the bracket resolves. Scores are intentiona
+ lly not shown.
+CATEGORIES:FIFA World Cup 2026,Group I
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-65@worldcup2026.mindteam.ai
+DTSTAMP:20260627T000000Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:⚽ Cabo Verde vs Saudi Arabia (Group H)
+LOCATION:NRG Stadium\, Houston\, USA
+DESCRIPTION:Group H  ·  Match 65\nNRG Stadium\, Houston\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group H
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-66@worldcup2026.mindteam.ai
+DTSTAMP:20260627T000000Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:⚽ Uruguay vs Spain (Group H)
+LOCATION:Estadio Akron\, Guadalajara\, Mexico
+DESCRIPTION:Group H  ·  Match 66\nEstadio Akron\, Guadalajara\, Mexico\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group H
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-63@worldcup2026.mindteam.ai
+DTSTAMP:20260627T030000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:⚽ Egypt vs IR Iran (Group G)
+LOCATION:Lumen Field\, Seattle\, USA
+DESCRIPTION:Group G  ·  Match 63\nLumen Field\, Seattle\, USA\n\n📺 Watc
+ h live or replay on Peacock (Spanish-language / Telemundo\, Premium subscr
+ iption): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating feed 
+ — knockout teams fill in as the bracket resolves. Scores are intentional
+ ly not shown.
+CATEGORIES:FIFA World Cup 2026,Group G
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-64@worldcup2026.mindteam.ai
+DTSTAMP:20260627T030000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:⚽ New Zealand vs Belgium (Group G)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Group G  ·  Match 64\nBC Place\, Vancouver\, Canada\n\n📺 Wa
+ tch live or replay on Peacock (Spanish-language / Telemundo\, Premium subs
+ cription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating fee
+ d — knockout teams fill in as the bracket resolves. Scores are intention
+ ally not shown.
+CATEGORIES:FIFA World Cup 2026,Group G
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-67@worldcup2026.mindteam.ai
+DTSTAMP:20260627T210000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:⚽ Panama vs England (Group L)
+LOCATION:MetLife Stadium\, New York / New Jersey\, USA
+DESCRIPTION:Group L  ·  Match 67\nMetLife Stadium\, New York / New Jersey\
+ , USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
+ o\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nA
+ uto-updating feed — knockout teams fill in as the bracket resolves. Scor
+ es are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group L
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-68@worldcup2026.mindteam.ai
+DTSTAMP:20260627T210000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T230000Z
+SUMMARY:⚽ Croatia vs Ghana (Group L)
+LOCATION:Lincoln Financial Field\, Philadelphia\, USA
+DESCRIPTION:Group L  ·  Match 68\nLincoln Financial Field\, Philadelphia\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group L
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-71@worldcup2026.mindteam.ai
+DTSTAMP:20260627T233000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:⚽ Colombia vs Portugal (Group K)
+LOCATION:Hard Rock Stadium\, Miami\, USA
+DESCRIPTION:Group K  ·  Match 71\nHard Rock Stadium\, Miami\, USA\n\n📺 
+ Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium su
+ bscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating f
+ eed — knockout teams fill in as the bracket resolves. Scores are intenti
+ onally not shown.
+CATEGORIES:FIFA World Cup 2026,Group K
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-72@worldcup2026.mindteam.ai
+DTSTAMP:20260627T233000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:⚽ Congo DR vs Uzbekistan (Group K)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
+DESCRIPTION:Group K  ·  Match 72\nMercedes-Benz Stadium\, Atlanta\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group K
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-69@worldcup2026.mindteam.ai
+DTSTAMP:20260628T020000Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:⚽ Algeria vs Austria (Group J)
+LOCATION:Arrowhead Stadium\, Kansas City\, USA
+DESCRIPTION:Group J  ·  Match 69\nArrowhead Stadium\, Kansas City\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group J
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-70@worldcup2026.mindteam.ai
+DTSTAMP:20260628T020000Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:⚽ Jordan vs Argentina (Group J)
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Group J  ·  Match 70\nAT&T Stadium\, Dallas (Arlington)\, USA\
+ n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Pr
+ emium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-up
+ dating feed — knockout teams fill in as the bracket resolves. Scores are
+  intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Group J
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-73@worldcup2026.mindteam.ai
+DTSTAMP:20260628T190000Z
+DTSTART:20260628T190000Z
+DTEND:20260628T214500Z
+SUMMARY:⚽ Round of 32: South Africa vs Canada
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
+DESCRIPTION:Round of 32  ·  Match 73\nSoFi Stadium\, Los Angeles (Inglewoo
+ d)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telem
+ undo\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n
+ \nAuto-updating feed — knockout teams fill in as the bracket resolves. S
+ cores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-76@worldcup2026.mindteam.ai
+DTSTAMP:20260629T170000Z
+DTSTART:20260629T170000Z
+DTEND:20260629T194500Z
+SUMMARY:⚽ Round of 32: Brazil vs Japan
+LOCATION:NRG Stadium\, Houston\, USA
+DESCRIPTION:Round of 32  ·  Match 76\nNRG Stadium\, Houston\, USA\n\n📺 
+ Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium su
+ bscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating f
+ eed — knockout teams fill in as the bracket resolves. Scores are intenti
+ onally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-74@worldcup2026.mindteam.ai
+DTSTAMP:20260629T203000Z
+DTSTART:20260629T203000Z
+DTEND:20260629T231500Z
+SUMMARY:⚽ Round of 32: Germany vs Paraguay
+LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
+DESCRIPTION:Round of 32  ·  Match 74\nGillette Stadium\, Boston (Foxboroug
+ h)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telem
+ undo\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n
+ \nAuto-updating feed — knockout teams fill in as the bracket resolves. S
+ cores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-75@worldcup2026.mindteam.ai
+DTSTAMP:20260630T010000Z
+DTSTART:20260630T010000Z
+DTEND:20260630T034500Z
+SUMMARY:⚽ Round of 32: Netherlands vs Morocco
+LOCATION:Estadio BBVA\, Monterrey\, Mexico
+DESCRIPTION:Round of 32  ·  Match 75\nEstadio BBVA\, Monterrey\, Mexico\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-78@worldcup2026.mindteam.ai
+DTSTAMP:20260630T170000Z
+DTSTART:20260630T170000Z
+DTEND:20260630T194500Z
+SUMMARY:⚽ Round of 32: Côte d'Ivoire vs Norway
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Round of 32  ·  Match 78\nAT&T Stadium\, Dallas (Arlington)\, 
+ USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\
+ , Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAut
+ o-updating feed — knockout teams fill in as the bracket resolves. Scores
+  are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-77@worldcup2026.mindteam.ai
+DTSTAMP:20260630T210000Z
+DTSTART:20260630T210000Z
+DTEND:20260630T234500Z
+SUMMARY:⚽ Round of 32: France vs Sweden
+LOCATION:MetLife Stadium\, New York / New Jersey\, USA
+DESCRIPTION:Round of 32  ·  Match 77\nMetLife Stadium\, New York / New Jer
+ sey\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Tele
+ mundo\, Premium subscription): https://www.peacocktv.com/sports/world-cup\
+ n\nAuto-updating feed — knockout teams fill in as the bracket resolves. 
+ Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-79@worldcup2026.mindteam.ai
+DTSTAMP:20260701T020000Z
+DTSTART:20260701T020000Z
+DTEND:20260701T044500Z
+SUMMARY:⚽ Round of 32: Mexico vs Ecuador
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Round of 32  ·  Match 79\nEstadio Azteca\, Mexico City\, Mexic
+ o\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, 
+ Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-
+ updating feed — knockout teams fill in as the bracket resolves. Scores a
+ re intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-80@worldcup2026.mindteam.ai
+DTSTAMP:20260701T160000Z
+DTSTART:20260701T160000Z
+DTEND:20260701T184500Z
+SUMMARY:⚽ Round of 32: England vs Congo DR
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
+DESCRIPTION:Round of 32  ·  Match 80\nMercedes-Benz Stadium\, Atlanta\, US
+ A\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, 
+ Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-
+ updating feed — knockout teams fill in as the bracket resolves. Scores a
+ re intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-82@worldcup2026.mindteam.ai
+DTSTAMP:20260701T200000Z
+DTSTART:20260701T200000Z
+DTEND:20260701T224500Z
+SUMMARY:⚽ Round of 32: Belgium vs Senegal
+LOCATION:Lumen Field\, Seattle\, USA
+DESCRIPTION:Round of 32  ·  Match 82\nLumen Field\, Seattle\, USA\n\n📺 
+ Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium su
+ bscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating f
+ eed — knockout teams fill in as the bracket resolves. Scores are intenti
+ onally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-81@worldcup2026.mindteam.ai
+DTSTAMP:20260702T000000Z
+DTSTART:20260702T000000Z
+DTEND:20260702T024500Z
+SUMMARY:⚽ Round of 32: USA vs Bosnia and Herzegovina
+LOCATION:Levi's Stadium\, San Francisco Bay Area (Santa Clara)\, USA
+DESCRIPTION:Round of 32  ·  Match 81\nLevi's Stadium\, San Francisco Bay A
+ rea (Santa Clara)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-l
+ anguage / Telemundo\, Premium subscription): https://www.peacocktv.com/spo
+ rts/world-cup\n\nAuto-updating feed — knockout teams fill in as the brac
+ ket resolves. Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-84@worldcup2026.mindteam.ai
+DTSTAMP:20260702T190000Z
+DTSTART:20260702T190000Z
+DTEND:20260702T214500Z
+SUMMARY:⚽ Round of 32: Spain vs Austria
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
+DESCRIPTION:Round of 32  ·  Match 84\nSoFi Stadium\, Los Angeles (Inglewoo
+ d)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telem
+ undo\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n
+ \nAuto-updating feed — knockout teams fill in as the bracket resolves. S
+ cores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-83@worldcup2026.mindteam.ai
+DTSTAMP:20260702T230000Z
+DTSTART:20260702T230000Z
+DTEND:20260703T014500Z
+SUMMARY:⚽ Round of 32: Portugal vs Croatia
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Round of 32  ·  Match 83\nBMO Field\, Toronto\, Canada\n\n📺
+  Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium s
+ ubscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating 
+ feed — knockout teams fill in as the bracket resolves. Scores are intent
+ ionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-85@worldcup2026.mindteam.ai
+DTSTAMP:20260703T030000Z
+DTSTART:20260703T030000Z
+DTEND:20260703T054500Z
+SUMMARY:⚽ Round of 32: Switzerland vs Algeria
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Round of 32  ·  Match 85\nBC Place\, Vancouver\, Canada\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-88@worldcup2026.mindteam.ai
+DTSTAMP:20260703T180000Z
+DTSTART:20260703T180000Z
+DTEND:20260703T204500Z
+SUMMARY:⚽ Round of 32: Australia vs Egypt
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Round of 32  ·  Match 88\nAT&T Stadium\, Dallas (Arlington)\, 
+ USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\
+ , Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAut
+ o-updating feed — knockout teams fill in as the bracket resolves. Scores
+  are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-86@worldcup2026.mindteam.ai
+DTSTAMP:20260703T220000Z
+DTSTART:20260703T220000Z
+DTEND:20260704T004500Z
+SUMMARY:⚽ Round of 32: Argentina vs Cabo Verde
+LOCATION:Hard Rock Stadium\, Miami\, USA
+DESCRIPTION:Round of 32  ·  Match 86\nHard Rock Stadium\, Miami\, USA\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-87@worldcup2026.mindteam.ai
+DTSTAMP:20260704T013000Z
+DTSTART:20260704T013000Z
+DTEND:20260704T041500Z
+SUMMARY:⚽ Round of 32: Colombia vs Ghana
+LOCATION:Arrowhead Stadium\, Kansas City\, USA
+DESCRIPTION:Round of 32  ·  Match 87\nArrowhead Stadium\, Kansas City\, US
+ A\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, 
+ Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-
+ updating feed — knockout teams fill in as the bracket resolves. Scores a
+ re intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 32
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-90@worldcup2026.mindteam.ai
+DTSTAMP:20260704T170000Z
+DTSTART:20260704T170000Z
+DTEND:20260704T194500Z
+SUMMARY:⚽ Round of 16: Canada vs Morocco
+LOCATION:NRG Stadium\, Houston\, USA
+DESCRIPTION:Round of 16  ·  Match 90\nNRG Stadium\, Houston\, USA\n\n📺 
+ Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium su
+ bscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating f
+ eed — knockout teams fill in as the bracket resolves. Scores are intenti
+ onally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 16
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-89@worldcup2026.mindteam.ai
+DTSTAMP:20260704T210000Z
+DTSTART:20260704T210000Z
+DTEND:20260704T234500Z
+SUMMARY:⚽ Round of 16: Paraguay vs France
+LOCATION:Lincoln Financial Field\, Philadelphia\, USA
+DESCRIPTION:Round of 16  ·  Match 89\nLincoln Financial Field\, Philadelph
+ ia\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telem
+ undo\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n
+ \nAuto-updating feed — knockout teams fill in as the bracket resolves. S
+ cores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 16
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-91@worldcup2026.mindteam.ai
+DTSTAMP:20260705T200000Z
+DTSTART:20260705T200000Z
+DTEND:20260705T224500Z
+SUMMARY:⚽ Round of 16: Brazil vs Norway
+LOCATION:MetLife Stadium\, New York / New Jersey\, USA
+DESCRIPTION:Round of 16  ·  Match 91\nMetLife Stadium\, New York / New Jer
+ sey\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Tele
+ mundo\, Premium subscription): https://www.peacocktv.com/sports/world-cup\
+ n\nAuto-updating feed — knockout teams fill in as the bracket resolves. 
+ Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 16
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-92@worldcup2026.mindteam.ai
+DTSTAMP:20260706T000000Z
+DTSTART:20260706T000000Z
+DTEND:20260706T024500Z
+SUMMARY:⚽ Round of 16: Mexico vs England
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Round of 16  ·  Match 92\nEstadio Azteca\, Mexico City\, Mexic
+ o\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, 
+ Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-
+ updating feed — knockout teams fill in as the bracket resolves. Scores a
+ re intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 16
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-93@worldcup2026.mindteam.ai
+DTSTAMP:20260706T190000Z
+DTSTART:20260706T190000Z
+DTEND:20260706T214500Z
+SUMMARY:⚽ Round of 16: Portugal vs Spain
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Round of 16  ·  Match 93\nAT&T Stadium\, Dallas (Arlington)\, 
+ USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\
+ , Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAut
+ o-updating feed — knockout teams fill in as the bracket resolves. Scores
+  are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 16
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-94@worldcup2026.mindteam.ai
+DTSTAMP:20260707T000000Z
+DTSTART:20260707T000000Z
+DTEND:20260707T024500Z
+SUMMARY:⚽ Round of 16: USA vs Belgium
+LOCATION:Lumen Field\, Seattle\, USA
+DESCRIPTION:Round of 16  ·  Match 94\nLumen Field\, Seattle\, USA\n\n📺 
+ Watch live or replay on Peacock (Spanish-language / Telemundo\, Premium su
+ bscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updating f
+ eed — knockout teams fill in as the bracket resolves. Scores are intenti
+ onally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 16
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-95@worldcup2026.mindteam.ai
+DTSTAMP:20260707T160000Z
+DTSTART:20260707T160000Z
+DTEND:20260707T184500Z
+SUMMARY:⚽ Round of 16: Argentina vs Egypt
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
+DESCRIPTION:Round of 16  ·  Match 95\nMercedes-Benz Stadium\, Atlanta\, US
+ A\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, 
+ Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-
+ updating feed — knockout teams fill in as the bracket resolves. Scores a
+ re intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 16
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-96@worldcup2026.mindteam.ai
+DTSTAMP:20260707T200000Z
+DTSTART:20260707T200000Z
+DTEND:20260707T224500Z
+SUMMARY:⚽ Round of 16: Switzerland vs Colombia
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Round of 16  ·  Match 96\nBC Place\, Vancouver\, Canada\n\n
+ 📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Premi
+ um subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-updat
+ ing feed — knockout teams fill in as the bracket resolves. Scores are in
+ tentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Round of 16
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-97@worldcup2026.mindteam.ai
+DTSTAMP:20260709T200000Z
+DTSTART:20260709T200000Z
+DTEND:20260709T224500Z
+SUMMARY:⚽ Quarter-final: France vs Morocco
+LOCATION:Gillette Stadium\, Boston (Foxborough)\, USA
+DESCRIPTION:Quarter-final  ·  Match 97\nGillette Stadium\, Boston (Foxboro
+ ugh)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Tel
+ emundo\, Premium subscription): https://www.peacocktv.com/sports/world-cup
+ \n\nAuto-updating feed — knockout teams fill in as the bracket resolves.
+  Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Quarter-final
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-98@worldcup2026.mindteam.ai
+DTSTAMP:20260710T190000Z
+DTSTART:20260710T190000Z
+DTEND:20260710T214500Z
+SUMMARY:⚽ Quarter-final: Spain vs Belgium
+LOCATION:SoFi Stadium\, Los Angeles (Inglewood)\, USA
+DESCRIPTION:Quarter-final  ·  Match 98\nSoFi Stadium\, Los Angeles (Inglew
+ ood)\, USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Tel
+ emundo\, Premium subscription): https://www.peacocktv.com/sports/world-cup
+ \n\nAuto-updating feed — knockout teams fill in as the bracket resolves.
+  Scores are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Quarter-final
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-99@worldcup2026.mindteam.ai
+DTSTAMP:20260711T210000Z
+DTSTART:20260711T210000Z
+DTEND:20260711T234500Z
+SUMMARY:⚽ Quarter-final: Norway vs England
+LOCATION:Hard Rock Stadium\, Miami\, USA
+DESCRIPTION:Quarter-final  ·  Match 99\nHard Rock Stadium\, Miami\, USA\n\
+ n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, Prem
+ ium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-upda
+ ting feed — knockout teams fill in as the bracket resolves. Scores are i
+ ntentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Quarter-final
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-100@worldcup2026.mindteam.ai
+DTSTAMP:20260712T010000Z
+DTSTART:20260712T010000Z
+DTEND:20260712T034500Z
+SUMMARY:⚽ Quarter-final: Argentina/Egypt vs Switzerland/Colombia
+LOCATION:Arrowhead Stadium\, Kansas City\, USA
+DESCRIPTION:Quarter-final  ·  Match 100\nArrowhead Stadium\, Kansas City\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Quarter-final
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-101@worldcup2026.mindteam.ai
+DTSTAMP:20260714T190000Z
+DTSTART:20260714T190000Z
+DTEND:20260714T214500Z
+SUMMARY:⚽ Semi-final: France/Morocco vs Spain/Belgium
+LOCATION:AT&T Stadium\, Dallas (Arlington)\, USA
+DESCRIPTION:Semi-final  ·  Match 101\nAT&T Stadium\, Dallas (Arlington)\, 
+ USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\
+ , Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAut
+ o-updating feed — knockout teams fill in as the bracket resolves. Scores
+  are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Semi-final
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-102@worldcup2026.mindteam.ai
+DTSTAMP:20260715T190000Z
+DTSTART:20260715T190000Z
+DTEND:20260715T214500Z
+SUMMARY:⚽ Semi-final: Norway/England vs Winner M100
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
+DESCRIPTION:Semi-final  ·  Match 102\nMercedes-Benz Stadium\, Atlanta\, US
+ A\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo\, 
+ Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAuto-
+ updating feed — knockout teams fill in as the bracket resolves. Scores a
+ re intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Semi-final
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-103@worldcup2026.mindteam.ai
+DTSTAMP:20260718T210000Z
+DTSTART:20260718T210000Z
+DTEND:20260718T234500Z
+SUMMARY:⚽ Third-place play-off: Loser M101 vs Loser M102
+LOCATION:Hard Rock Stadium\, Miami\, USA
+DESCRIPTION:Third-place play-off  ·  Match 103\nHard Rock Stadium\, Miami\
+ , USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemund
+ o\, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nA
+ uto-updating feed — knockout teams fill in as the bracket resolves. Scor
+ es are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Third-place play-off
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-104@worldcup2026.mindteam.ai
+DTSTAMP:20260719T190000Z
+DTSTART:20260719T190000Z
+DTEND:20260719T214500Z
+SUMMARY:⚽ Final: Winner M101 vs Winner M102
+LOCATION:MetLife Stadium\, New York / New Jersey\, USA
+DESCRIPTION:Final  ·  Match 104\nMetLife Stadium\, New York / New Jersey\,
+  USA\n\n📺 Watch live or replay on Peacock (Spanish-language / Telemundo
+ \, Premium subscription): https://www.peacocktv.com/sports/world-cup\n\nAu
+ to-updating feed — knockout teams fill in as the bracket resolves. Score
+ s are intentionally not shown.
+CATEGORIES:FIFA World Cup 2026,Final
+URL:https://www.peacocktv.com/sports/world-cup
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kickoff in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

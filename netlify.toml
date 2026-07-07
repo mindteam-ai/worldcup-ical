@@ -1,0 +1,20 @@
+# Netlify serves the generated calendar feed publicly (works even if this
+# GitHub repo stays private). Connect this repo to a Netlify site and Netlify
+# auto-deploys whenever the GitHub Action commits a refreshed feed.
+#
+# Subscribe in Apple Calendar to:  webcal://<your-site>.netlify.app/worldcup.ics
+
+[build]
+  # The feed is pre-generated and committed by GitHub Actions, so the build
+  # just regenerates once more to stay fresh at deploy time. If Python isn't
+  # available in your Netlify build image, change this to `command = ""`.
+  publish = "public"
+  command = "python3 scripts/generate_worldcup_ics.py --out public/worldcup.ics || true"
+
+# Serve .ics with the correct calendar content type.
+[[headers]]
+  for = "/worldcup.ics"
+  [headers.values]
+    Content-Type = "text/calendar; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+    Content-Disposition = "inline; filename=\"worldcup.ics\""

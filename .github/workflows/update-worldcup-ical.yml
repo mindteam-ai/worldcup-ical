@@ -1,0 +1,66 @@
+name: Update World Cup iCal feed
+
+# Regenerates public/worldcup.ics so the knockout bracket fills in with the
+# actual qualified teams as groups finish, then publishes public/ to GitHub
+# Pages. Runs every 6 hours; the schedule fires because this workflow lives
+# on the repository's default branch.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours, on the hour (UTC)
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: worldcup-ical
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate feed (validates hard; fails rather than publish bad data)
+        run: python scripts/generate_worldcup_ics.py --out public/worldcup.ics
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/worldcup.ics
+          # --cached so brand-new (untracked) files are detected too.
+          if git diff --cached --quiet; then
+            echo "No changes to the feed."
+          else
+            git commit -m "chore: refresh World Cup iCal feed [skip ci]"
+            git push origin HEAD:main
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload feed
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
